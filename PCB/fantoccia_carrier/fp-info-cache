@@ -1,4 +1,4 @@
-23615303742142039
+23615303742426360
 AVR-KiCAD-Lib-Battery-Holders
 BK-912
 
@@ -819,13 +819,6 @@ translated Allegro footprint
 16
 16
 AVR-KiCAD-Lib-Connectors
-SOP65P640X120-20N
-
-
-0
-20
-20
-AVR-KiCAD-Lib-Connectors
 SSW-104-02-F-D-RA_2x04_Pitch2.54mm
 Through hole angled pin header, 2x04, 2.54mm pitch, 6mm pin length, double rows
 Through hole angled pin header THT 2x04 2.54mm double row
@@ -1539,6 +1532,13 @@ SOP63P600X173-24N_STP16CPC26XTR
 0
 24
 24
+AVR-KiCAD-Lib-ICs
+SOP65P640X120-20N
+
+
+0
+20
+20
 AVR-KiCAD-Lib-ICs
 SOT-23
 

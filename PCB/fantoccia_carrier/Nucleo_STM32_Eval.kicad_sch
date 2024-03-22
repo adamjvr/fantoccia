@@ -2,7 +2,7 @@
 	(version 20231120)
 	(generator "eeschema")
 	(generator_version "8.0")
-	(uuid "0258f6e7-66b6-403f-a5a9-d6398bfebbf4")
+	(uuid "f54efa4b-bca6-4d3d-ad44-8366162f9ba9")
 	(paper "A4")
 	(lib_symbols
 		(symbol "AVR-KiCAD-Lib-Battery-Holders:BU2450SM-JJ-GTR"
@@ -331,6 +331,407 @@
 					(at 8.89 -1.27 180)
 					(length 5.08)
 					(name "-"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
+		(symbol "AVR-KiCAD-Lib-Inductors:HZ0805E601R-10"
+			(pin_names
+				(offset 1.016)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "L"
+				(at -2.54 2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "HZ0805E601R-10"
+				(at 1.27 5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Footprint" "AVR-KiCAD-Lib-Inductors:HZ0805E601R-10"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/897/EMI_Filtering_and_RF_Inductors.pdf"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "600 Ohms @ 100 MHz 1 Power, Signal Line Ferrite Bead 0805 (2012 Metric) 500mA 300mOhm"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Cost QTY: 1" "0.20000"
+				(at 2.54 6.35 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Cost QTY: 1000" "0.05499"
+				(at 5.08 8.89 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Cost QTY: 2500" "*"
+				(at 7.62 11.43 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Cost QTY: 5000" "*"
+				(at 10.16 13.97 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Cost QTY: 10000" "*"
+				(at 12.7 16.51 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "MFR" "Laird-Signal Integrity Products"
+				(at 15.24 19.05 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "MFR#" "HZ0805E601R-10"
+				(at 17.78 21.59 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Vendor" "Digikey"
+				(at 20.32 24.13 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Vendor #" "240-2399-2-ND"
+				(at 22.86 26.67 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Designer" "AVR"
+				(at 25.4 29.21 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Height" "0.90mm"
+				(at 27.94 31.75 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Date Created" "9/8/2023"
+				(at 55.88 59.69 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Date Modified" "9/8/2023"
+				(at 30.48 34.29 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Lead-Free ?" "Yes"
+				(at 33.02 36.83 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "RoHS Levels" "1"
+				(at 35.56 39.37 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Mounting" "SMT"
+				(at 38.1 41.91 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Pin Count #" "2"
+				(at 40.64 44.45 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Status" "Active"
+				(at 43.18 46.99 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Tolerance" "N/A"
+				(at 45.72 49.53 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Type" "Ferrite Bead"
+				(at 48.26 52.07 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Voltage" "N/A"
+				(at 50.8 54.61 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Package" "0805"
+				(at 53.34 58.42 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "_Value_" "600 ohm @ 100MHZ"
+				(at 58.42 63.5 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Management_ID" "*"
+				(at 60.96 66.04 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "HZ0805E601R-10_1_1"
+				(arc
+					(start -3.81 1.27)
+					(mid -4.7246 0.9071)
+					(end -5.08 0)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start -2.54 0)
+					(mid -2.9029 0.9146)
+					(end -3.81 1.27)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start -1.27 1.27)
+					(mid -2.1846 0.9071)
+					(end -2.54 0)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start 0 0)
+					(mid -0.3629 0.9146)
+					(end -1.27 1.27)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start 1.27 1.27)
+					(mid 0.3554 0.9071)
+					(end 0 0)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start 2.54 0)
+					(mid 2.1771 0.9146)
+					(end 1.27 1.27)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start 3.81 1.27)
+					(mid 2.8954 0.9071)
+					(end 2.54 0)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start 5.08 0)
+					(mid 4.7171 0.9146)
+					(end 3.81 1.27)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin input line
+					(at -10.16 0 0)
+					(length 5.08)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 10.16 0 180)
+					(length 5.08)
+					(name "~"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -3120,6 +3521,90 @@
 			)
 		)
 	)
+	(junction
+		(at 242.57 95.25)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "1bef2403-316c-4e0f-b85e-94fa63bbee85")
+	)
+	(junction
+		(at 242.57 97.79)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "22bb7f57-5542-408c-8058-488aafed4a0d")
+	)
+	(junction
+		(at 242.57 74.93)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "26453e3c-a632-4005-8ec7-37a1fbc531e6")
+	)
+	(junction
+		(at 242.57 87.63)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "2840b08c-e15f-40cc-8b01-fabd3ff87cc8")
+	)
+	(junction
+		(at 242.57 100.33)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "32035fa3-0378-49a6-bb44-b1b993348027")
+	)
+	(junction
+		(at 242.57 107.95)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "3706d230-accd-45e9-9a3d-3283e4be10fc")
+	)
+	(junction
+		(at 242.57 80.01)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "3dcdf8fe-55e4-457b-9b5b-728cfc3a3e90")
+	)
+	(junction
+		(at 242.57 92.71)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "3e38abff-e0ea-4404-9e6c-3d94bfeb2fb4")
+	)
+	(junction
+		(at 242.57 82.55)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "4afd7dd5-bdb8-48c2-a3a9-c0987155e6e4")
+	)
+	(junction
+		(at 242.57 102.87)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "5c3abfae-6786-492f-8601-d84c68897713")
+	)
+	(junction
+		(at 242.57 90.17)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "8c671be4-bd14-42b0-9c76-ccdef9dc33ad")
+	)
+	(junction
+		(at 242.57 85.09)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "a778f624-5858-4bde-921b-5883f2e5cde3")
+	)
+	(junction
+		(at 242.57 105.41)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "b40ed7c5-fb28-49cb-9319-4c9b2b7afd18")
+	)
+	(junction
+		(at 242.57 77.47)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "b82aeca8-5ba0-4b3e-8c96-a098626202b3")
+	)
 	(wire
 		(pts
 			(xy 20.32 92.71) (xy 49.53 92.71)
@@ -3132,6 +3617,116 @@
 	)
 	(wire
 		(pts
+			(xy 242.57 82.55) (xy 242.57 85.09)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0e1bb2e2-467e-4f5c-8811-a9c5edbd89fc")
+	)
+	(wire
+		(pts
+			(xy 242.57 95.25) (xy 242.57 97.79)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "19ad6702-04f1-4047-8f8c-07ca5c6e80c3")
+	)
+	(wire
+		(pts
+			(xy 242.57 90.17) (xy 242.57 92.71)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2702f5b4-93fb-432c-87ca-2d85e1a82c06")
+	)
+	(wire
+		(pts
+			(xy 242.57 85.09) (xy 242.57 87.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2ce40860-a89d-4d22-9b56-2c6068f1ad3b")
+	)
+	(wire
+		(pts
+			(xy 242.57 107.95) (xy 242.57 114.3)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5e60fcc3-62bd-4478-9fc9-de5e2455a68e")
+	)
+	(wire
+		(pts
+			(xy 242.57 67.31) (xy 254 67.31)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "608f5eaa-088b-4d10-8967-92fdd9555f77")
+	)
+	(wire
+		(pts
+			(xy 242.57 105.41) (xy 242.57 107.95)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "87b77361-35d2-48a8-bfae-f8e7cc8a79f0")
+	)
+	(wire
+		(pts
+			(xy 242.57 87.63) (xy 242.57 90.17)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "89141d9b-7294-4b9d-81d4-904b89b0cc9c")
+	)
+	(wire
+		(pts
+			(xy 242.57 72.39) (xy 242.57 74.93)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "95733a9e-584a-48fe-8985-0097782f0de4")
+	)
+	(wire
+		(pts
+			(xy 242.57 92.71) (xy 242.57 95.25)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a0f6d1b2-4ad0-4ef5-b5c4-5859d29446b0")
+	)
+	(wire
+		(pts
+			(xy 242.57 97.79) (xy 242.57 100.33)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a559dc90-7876-472b-80f2-cea802bdfedc")
+	)
+	(wire
+		(pts
 			(xy 20.32 110.49) (xy 20.32 114.3)
 		)
 		(stroke
@@ -3139,6 +3734,450 @@
 			(type default)
 		)
 		(uuid "a8b4b4fd-4b54-4aaf-b217-3ea6da15c067")
+	)
+	(wire
+		(pts
+			(xy 242.57 100.33) (xy 242.57 102.87)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d6e24f19-786c-4a94-92e7-014f1d3decc2")
+	)
+	(wire
+		(pts
+			(xy 242.57 77.47) (xy 242.57 80.01)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e1fd76fc-5bbf-4dd6-b67c-1e96c8cf119b")
+	)
+	(wire
+		(pts
+			(xy 242.57 80.01) (xy 242.57 82.55)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f311c2ce-1c87-4c7f-bf42-4959fbcc2c8c")
+	)
+	(wire
+		(pts
+			(xy 254 114.3) (xy 254 87.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f75d097d-812c-47d7-9720-15e2cbdc856c")
+	)
+	(wire
+		(pts
+			(xy 242.57 102.87) (xy 242.57 105.41)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fe095b5c-85c3-48c9-a0a4-3aa2d95c55a0")
+	)
+	(wire
+		(pts
+			(xy 242.57 74.93) (xy 242.57 77.47)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "feda0fee-1cd9-4427-bacb-4fb40446354b")
+	)
+	(hierarchical_label "3.3V_GPIO3"
+		(shape input)
+		(at 54.61 153.67 270)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "060e1e6b-1a43-42c3-b9d3-ac3f22698576")
+	)
+	(hierarchical_label "3.3V_GPIO4"
+		(shape input)
+		(at 57.15 153.67 270)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "0b7d453a-136f-404e-a60c-39ad21ff6556")
+	)
+	(hierarchical_label "CV_GPIO9"
+		(shape input)
+		(at 279.4 129.54 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "13bcbfcd-0301-4472-8293-73110d0d8b8e")
+	)
+	(hierarchical_label "CV_GPIO7"
+		(shape input)
+		(at 278.13 69.85 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "2de61183-162d-4719-bf49-29acebeb4c76")
+	)
+	(hierarchical_label "3.3V_GPIO7"
+		(shape input)
+		(at 64.77 153.67 270)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "33fc0912-4574-4870-a356-5a8acfc749b1")
+	)
+	(hierarchical_label "3.3V_GPIO2"
+		(shape input)
+		(at 52.07 153.67 270)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "35e8f95a-a331-4f04-a1cb-0cc882c48a89")
+	)
+	(hierarchical_label "3.3V_GPIO1"
+		(shape input)
+		(at 49.53 153.67 270)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "4e2cde7a-776c-4a56-bbfb-e428bbdeac11")
+	)
+	(hierarchical_label "3.3V_GPIO15"
+		(shape input)
+		(at 139.7 152.4 270)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "4f69a1e4-21e3-4e2c-ba5b-933044f0e494")
+	)
+	(hierarchical_label "CV_GPIO4"
+		(shape input)
+		(at 278.13 62.23 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "57a5ed28-7197-44b0-b2b6-a33cf8c7bda3")
+	)
+	(hierarchical_label "3.3V_GPIO9"
+		(shape input)
+		(at 124.46 152.4 270)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "5c6102d6-ffb3-4d95-afe2-a87ab992e7d4")
+	)
+	(hierarchical_label "CV_GPIO8"
+		(shape input)
+		(at 279.4 127 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "5c62ae77-07b6-4dae-885a-77166d6b36a3")
+	)
+	(hierarchical_label "3.3V_GPIO14"
+		(shape input)
+		(at 137.16 152.4 270)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "5ef1ba8b-048f-47a3-993b-0f7767699674")
+	)
+	(hierarchical_label "3.3V_GPIO10"
+		(shape input)
+		(at 127 152.4 270)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "6b7a5299-76bd-42bd-94a1-bfb560ad4fb0")
+	)
+	(hierarchical_label "3.3V_GPIO12"
+		(shape input)
+		(at 132.08 152.4 270)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "6dc38c9a-5a58-4ceb-91e0-384214f6ea78")
+	)
+	(hierarchical_label "3.3V_GPIO6"
+		(shape input)
+		(at 62.23 153.67 270)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "72aa85b5-8322-4df5-b085-701574d76cf3")
+	)
+	(hierarchical_label "3.3V_GPIO0"
+		(shape input)
+		(at 46.99 153.67 270)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "7cd0ad67-b46a-43a4-8414-89f50f5774f7")
+	)
+	(hierarchical_label "CV_GPIO6"
+		(shape input)
+		(at 278.13 67.31 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "90efefd9-fc8f-4ff5-84df-5b4fec9fd1b3")
+	)
+	(hierarchical_label "3.3V_GPIO5"
+		(shape input)
+		(at 59.69 153.67 270)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "943d8ed4-eb4a-4ca9-ace9-ee009512f77c")
+	)
+	(hierarchical_label "CV_GPIO3"
+		(shape input)
+		(at 278.13 59.69 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "9535c532-e33d-42c1-b202-ad2db09aba42")
+	)
+	(hierarchical_label "3.3V_GPIO11"
+		(shape input)
+		(at 129.54 152.4 270)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "989354d2-bd52-4047-8407-efa9ec1bb082")
+	)
+	(hierarchical_label "CV_GPIO15"
+		(shape input)
+		(at 279.4 144.78 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "9ab8b8fc-62a9-43e2-8a4f-0887a7e86ede")
+	)
+	(hierarchical_label "CV_GPIO12"
+		(shape input)
+		(at 279.4 137.16 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "ad56f3ba-9587-4209-ad54-5181f0c96240")
+	)
+	(hierarchical_label "CV_GPIO14"
+		(shape input)
+		(at 279.4 142.24 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "aec9aad8-ee69-45f4-9698-6c4004f6425f")
+	)
+	(hierarchical_label "CV_GPIO10"
+		(shape input)
+		(at 279.4 132.08 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "b3d87d88-fdf7-4d76-8358-745ae28d8eba")
+	)
+	(hierarchical_label "CV_GPIO11"
+		(shape input)
+		(at 279.4 134.62 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "b42ea5a8-6464-41dd-8314-9b286d331ce8")
+	)
+	(hierarchical_label "3.3V_GPIO8"
+		(shape input)
+		(at 121.92 152.4 270)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "b8f8aff3-efcf-40c7-b9e1-d2800946d0a1")
+	)
+	(hierarchical_label "CV_GPIO1"
+		(shape input)
+		(at 278.13 54.61 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "c8fc65a0-c6f8-409b-a7e2-71a2e2f18567")
+	)
+	(hierarchical_label "CV_GPIO0"
+		(shape input)
+		(at 278.13 52.07 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "d5de5ed6-cd2a-40c2-a71b-98f3a6abf701")
+	)
+	(hierarchical_label "CV_GPIO13"
+		(shape input)
+		(at 279.4 139.7 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "dca41adb-72c7-4d60-ae41-14ce0073d34a")
+	)
+	(hierarchical_label "CV_GPIO5"
+		(shape input)
+		(at 278.13 64.77 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "e6cf2f5a-44ac-4560-9ff9-1554f18d61b6")
+	)
+	(hierarchical_label "CV_GPIO2"
+		(shape input)
+		(at 278.13 57.15 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "ed015b3a-1a6b-4d65-a9f2-ad4f4691860f")
+	)
+	(hierarchical_label "3.3V_GPIO13"
+		(shape input)
+		(at 134.62 152.4 270)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "f0f47f52-a841-481a-a40e-de4404544c92")
 	)
 	(symbol
 		(lib_id "power:GND")
@@ -3201,6 +4240,138 @@
 			(project "fantoccia_carrier"
 				(path "/faa652bd-d277-4d95-a530-1d3e26469af1/fb1a902e-3cde-446f-93e4-8f03e3bf91e4"
 					(reference "#PWR01")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 254 114.3 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "0dda9dbb-c381-463c-bad8-b043215f214e")
+		(property "Reference" "#PWR015"
+			(at 254 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 254 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 254 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 254 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 254 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "2257fd47-6019-4901-9d1b-e5df376f43b3")
+		)
+		(instances
+			(project "fantoccia_carrier"
+				(path "/faa652bd-d277-4d95-a530-1d3e26469af1/fb1a902e-3cde-446f-93e4-8f03e3bf91e4"
+					(reference "#PWR015")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 242.57 114.3 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "2eedccd3-3065-4a67-9879-e9cbec1ff80c")
+		(property "Reference" "#PWR014"
+			(at 242.57 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 242.57 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 242.57 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 242.57 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 242.57 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "80be7f06-8f6d-4e76-912f-e7c9776cc195")
+		)
+		(instances
+			(project "fantoccia_carrier"
+				(path "/faa652bd-d277-4d95-a530-1d3e26469af1/fb1a902e-3cde-446f-93e4-8f03e3bf91e4"
+					(reference "#PWR014")
 					(unit 1)
 				)
 			)
@@ -3981,6 +5152,292 @@
 			(project "fantoccia_carrier"
 				(path "/faa652bd-d277-4d95-a530-1d3e26469af1/fb1a902e-3cde-446f-93e4-8f03e3bf91e4"
 					(reference "J1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "AVR-KiCAD-Lib-Inductors:HZ0805E601R-10")
+		(at 254 77.47 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "e12bfb26-46f7-401d-aaa1-b46aa2be21fd")
+		(property "Reference" "L1"
+			(at 256.54 76.1999 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "HZ0805E601R-10"
+			(at 259.08 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "AVR-KiCAD-Lib-Inductors:HZ0805E601R-10"
+			(at 254 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/897/EMI_Filtering_and_RF_Inductors.pdf"
+			(at 254 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "600 Ohms @ 100 MHz 1 Power, Signal Line Ferrite Bead 0805 (2012 Metric) 500mA 300mOhm"
+			(at 254 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Cost QTY: 1" "0.20000"
+			(at 260.35 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Cost QTY: 1000" "0.05499"
+			(at 262.89 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Cost QTY: 2500" "*"
+			(at 265.43 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Cost QTY: 5000" "*"
+			(at 267.97 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Cost QTY: 10000" "*"
+			(at 270.51 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR" "Laird-Signal Integrity Products"
+			(at 273.05 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR#" "HZ0805E601R-10"
+			(at 275.59 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Vendor" "Digikey"
+			(at 278.13 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Vendor #" "240-2399-2-ND"
+			(at 280.67 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Designer" "AVR"
+			(at 283.21 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Height" "0.90mm"
+			(at 285.75 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Date Created" "9/8/2023"
+			(at 313.69 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Date Modified" "9/8/2023"
+			(at 288.29 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Lead-Free ?" "Yes"
+			(at 290.83 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "RoHS Levels" "1"
+			(at 293.37 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mounting" "SMT"
+			(at 295.91 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Pin Count #" "2"
+			(at 298.45 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Status" "Active"
+			(at 300.99 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Tolerance" "N/A"
+			(at 303.53 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Type" "Ferrite Bead"
+			(at 306.07 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage" "N/A"
+			(at 308.61 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "0805"
+			(at 312.42 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "_Value_" "600 ohm @ 100MHZ"
+			(at 256.54 78.7399 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Management_ID" "*"
+			(at 320.04 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "463f92b5-5016-4547-ab5d-589b013ea549")
+		)
+		(pin "1"
+			(uuid "fc473a12-95c0-4bad-895e-2fa0782c1f95")
+		)
+		(instances
+			(project "fantoccia_carrier"
+				(path "/faa652bd-d277-4d95-a530-1d3e26469af1/fb1a902e-3cde-446f-93e4-8f03e3bf91e4"
+					(reference "L1")
 					(unit 1)
 				)
 			)
