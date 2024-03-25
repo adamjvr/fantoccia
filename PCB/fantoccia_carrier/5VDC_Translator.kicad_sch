@@ -1314,32 +1314,44 @@
 		)
 	)
 	(junction
-		(at 104.14 90.17)
+		(at 101.6 72.39)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "0408d7c9-775f-478b-a5ff-eb36d83ad089")
 	)
 	(junction
-		(at 154.94 90.17)
+		(at 152.4 72.39)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "270edde9-0048-4557-bb0e-a8484818ab98")
 	)
 	(junction
-		(at 104.14 165.1)
+		(at 101.6 121.92)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "73f919dd-f49e-45ff-9ab0-7ff25cc2aeaf")
 	)
 	(junction
-		(at 154.94 165.1)
+		(at 152.4 171.45)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "b9a7ea2f-e067-4658-8236-e869b76e0057")
+	)
+	(junction
+		(at 152.4 121.92)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "ca560222-e24b-4d8e-9799-d86df29b0a30")
 	)
+	(junction
+		(at 101.6 171.45)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "cd9c3dad-69dd-4a40-bcfc-06d13bbb12cf")
+	)
 	(wire
 		(pts
-			(xy 27.94 144.78) (xy 119.38 144.78)
+			(xy 25.4 101.6) (xy 116.84 101.6)
 		)
 		(stroke
 			(width 0)
@@ -1349,7 +1361,7 @@
 	)
 	(wire
 		(pts
-			(xy 275.59 157.48) (xy 142.24 157.48)
+			(xy 273.05 114.3) (xy 139.7 114.3)
 		)
 		(stroke
 			(width 0)
@@ -1359,7 +1371,7 @@
 	)
 	(wire
 		(pts
-			(xy 275.59 152.4) (xy 142.24 152.4)
+			(xy 273.05 109.22) (xy 139.7 109.22)
 		)
 		(stroke
 			(width 0)
@@ -1369,7 +1381,7 @@
 	)
 	(wire
 		(pts
-			(xy 26.67 77.47) (xy 119.38 77.47)
+			(xy 24.13 59.69) (xy 116.84 59.69)
 		)
 		(stroke
 			(width 0)
@@ -1379,7 +1391,7 @@
 	)
 	(wire
 		(pts
-			(xy 27.94 139.7) (xy 119.38 139.7)
+			(xy 25.4 96.52) (xy 116.84 96.52)
 		)
 		(stroke
 			(width 0)
@@ -1389,7 +1401,7 @@
 	)
 	(wire
 		(pts
-			(xy 275.59 139.7) (xy 142.24 139.7)
+			(xy 273.05 96.52) (xy 139.7 96.52)
 		)
 		(stroke
 			(width 0)
@@ -1399,7 +1411,7 @@
 	)
 	(wire
 		(pts
-			(xy 27.94 149.86) (xy 119.38 149.86)
+			(xy 25.4 106.68) (xy 116.84 106.68)
 		)
 		(stroke
 			(width 0)
@@ -1409,7 +1421,7 @@
 	)
 	(wire
 		(pts
-			(xy 274.32 69.85) (xy 142.24 69.85)
+			(xy 271.78 52.07) (xy 139.7 52.07)
 		)
 		(stroke
 			(width 0)
@@ -1419,7 +1431,7 @@
 	)
 	(wire
 		(pts
-			(xy 274.32 67.31) (xy 142.24 67.31)
+			(xy 271.78 49.53) (xy 139.7 49.53)
 		)
 		(stroke
 			(width 0)
@@ -1429,7 +1441,57 @@
 	)
 	(wire
 		(pts
-			(xy 275.59 154.94) (xy 142.24 154.94)
+			(xy 25.4 161.29) (xy 116.84 161.29)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "292254f9-266e-4478-8b0f-a5141b58d38d")
+	)
+	(wire
+		(pts
+			(xy 273.05 158.75) (xy 139.7 158.75)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2b566d70-121c-42bb-b481-3c1efdd40025")
+	)
+	(wire
+		(pts
+			(xy 25.4 151.13) (xy 116.84 151.13)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2b6b75ea-7ea6-4bfb-8c48-73a6d1cc0793")
+	)
+	(wire
+		(pts
+			(xy 25.4 163.83) (xy 116.84 163.83)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2cb0cd04-6711-4df9-bc40-b1186006170b")
+	)
+	(wire
+		(pts
+			(xy 25.4 156.21) (xy 116.84 156.21)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2d6726da-3d07-44fd-a6a4-56d2e5a7b9e6")
+	)
+	(wire
+		(pts
+			(xy 273.05 111.76) (xy 139.7 111.76)
 		)
 		(stroke
 			(width 0)
@@ -1439,7 +1501,7 @@
 	)
 	(wire
 		(pts
-			(xy 104.14 165.1) (xy 119.38 165.1)
+			(xy 101.6 121.92) (xy 116.84 121.92)
 		)
 		(stroke
 			(width 0)
@@ -1449,7 +1511,17 @@
 	)
 	(wire
 		(pts
-			(xy 26.67 64.77) (xy 119.38 64.77)
+			(xy 101.6 171.45) (xy 116.84 171.45)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3a2755f7-0367-4f97-b3e8-c47282b2416b")
+	)
+	(wire
+		(pts
+			(xy 24.13 46.99) (xy 116.84 46.99)
 		)
 		(stroke
 			(width 0)
@@ -1459,7 +1531,17 @@
 	)
 	(wire
 		(pts
-			(xy 142.24 90.17) (xy 154.94 90.17)
+			(xy 273.05 161.29) (xy 139.7 161.29)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4cbcaa37-b7e0-4be1-a0bd-45ba61f05f2d")
+	)
+	(wire
+		(pts
+			(xy 139.7 72.39) (xy 152.4 72.39)
 		)
 		(stroke
 			(width 0)
@@ -1469,7 +1551,7 @@
 	)
 	(wire
 		(pts
-			(xy 275.59 142.24) (xy 142.24 142.24)
+			(xy 273.05 99.06) (xy 139.7 99.06)
 		)
 		(stroke
 			(width 0)
@@ -1479,7 +1561,7 @@
 	)
 	(wire
 		(pts
-			(xy 142.24 165.1) (xy 154.94 165.1)
+			(xy 139.7 121.92) (xy 152.4 121.92)
 		)
 		(stroke
 			(width 0)
@@ -1489,7 +1571,17 @@
 	)
 	(wire
 		(pts
-			(xy 142.24 101.6) (xy 142.24 100.33)
+			(xy 139.7 182.88) (xy 139.7 181.61)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "76530d96-3355-4fc8-8861-356b0fa50cf6")
+	)
+	(wire
+		(pts
+			(xy 139.7 83.82) (xy 139.7 82.55)
 		)
 		(stroke
 			(width 0)
@@ -1499,7 +1591,47 @@
 	)
 	(wire
 		(pts
-			(xy 26.67 74.93) (xy 119.38 74.93)
+			(xy 25.4 153.67) (xy 116.84 153.67)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7bba41df-5612-4e9b-8d4b-0a1bd9fed60b")
+	)
+	(wire
+		(pts
+			(xy 273.05 151.13) (xy 139.7 151.13)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7d8cefac-bb87-4351-8d64-8657b46b7a95")
+	)
+	(wire
+		(pts
+			(xy 273.05 148.59) (xy 139.7 148.59)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "81976fd2-7874-4f55-bc25-9b3d5db5c870")
+	)
+	(wire
+		(pts
+			(xy 273.05 156.21) (xy 139.7 156.21)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "81dabff5-7a66-4e0d-89e0-2e026ceff13a")
+	)
+	(wire
+		(pts
+			(xy 24.13 57.15) (xy 116.84 57.15)
 		)
 		(stroke
 			(width 0)
@@ -1509,7 +1641,7 @@
 	)
 	(wire
 		(pts
-			(xy 274.32 80.01) (xy 142.24 80.01)
+			(xy 271.78 62.23) (xy 139.7 62.23)
 		)
 		(stroke
 			(width 0)
@@ -1519,7 +1651,7 @@
 	)
 	(wire
 		(pts
-			(xy 27.94 154.94) (xy 119.38 154.94)
+			(xy 25.4 111.76) (xy 116.84 111.76)
 		)
 		(stroke
 			(width 0)
@@ -1529,7 +1661,17 @@
 	)
 	(wire
 		(pts
-			(xy 27.94 152.4) (xy 119.38 152.4)
+			(xy 273.05 146.05) (xy 139.7 146.05)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8c194acc-4cca-4997-a346-19148892b5e3")
+	)
+	(wire
+		(pts
+			(xy 25.4 109.22) (xy 116.84 109.22)
 		)
 		(stroke
 			(width 0)
@@ -1539,7 +1681,7 @@
 	)
 	(wire
 		(pts
-			(xy 27.94 147.32) (xy 119.38 147.32)
+			(xy 25.4 104.14) (xy 116.84 104.14)
 		)
 		(stroke
 			(width 0)
@@ -1549,7 +1691,7 @@
 	)
 	(wire
 		(pts
-			(xy 27.94 157.48) (xy 119.38 157.48)
+			(xy 25.4 114.3) (xy 116.84 114.3)
 		)
 		(stroke
 			(width 0)
@@ -1559,7 +1701,7 @@
 	)
 	(wire
 		(pts
-			(xy 275.59 144.78) (xy 142.24 144.78)
+			(xy 273.05 101.6) (xy 139.7 101.6)
 		)
 		(stroke
 			(width 0)
@@ -1569,7 +1711,7 @@
 	)
 	(wire
 		(pts
-			(xy 26.67 69.85) (xy 119.38 69.85)
+			(xy 24.13 52.07) (xy 116.84 52.07)
 		)
 		(stroke
 			(width 0)
@@ -1579,7 +1721,7 @@
 	)
 	(wire
 		(pts
-			(xy 26.67 67.31) (xy 119.38 67.31)
+			(xy 24.13 49.53) (xy 116.84 49.53)
 		)
 		(stroke
 			(width 0)
@@ -1589,7 +1731,17 @@
 	)
 	(wire
 		(pts
-			(xy 274.32 72.39) (xy 142.24 72.39)
+			(xy 273.05 153.67) (xy 139.7 153.67)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "aa20ad9a-05f7-47fd-8407-dc95a10eb62d")
+	)
+	(wire
+		(pts
+			(xy 271.78 54.61) (xy 139.7 54.61)
 		)
 		(stroke
 			(width 0)
@@ -1599,7 +1751,17 @@
 	)
 	(wire
 		(pts
-			(xy 104.14 90.17) (xy 119.38 90.17)
+			(xy 139.7 171.45) (xy 152.4 171.45)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b32e635f-0faa-44bd-96e6-7a0226f72c02")
+	)
+	(wire
+		(pts
+			(xy 101.6 72.39) (xy 116.84 72.39)
 		)
 		(stroke
 			(width 0)
@@ -1609,7 +1771,7 @@
 	)
 	(wire
 		(pts
-			(xy 275.59 149.86) (xy 142.24 149.86)
+			(xy 273.05 106.68) (xy 139.7 106.68)
 		)
 		(stroke
 			(width 0)
@@ -1619,7 +1781,7 @@
 	)
 	(wire
 		(pts
-			(xy 275.59 147.32) (xy 142.24 147.32)
+			(xy 273.05 104.14) (xy 139.7 104.14)
 		)
 		(stroke
 			(width 0)
@@ -1629,7 +1791,7 @@
 	)
 	(wire
 		(pts
-			(xy 26.67 72.39) (xy 119.38 72.39)
+			(xy 24.13 54.61) (xy 116.84 54.61)
 		)
 		(stroke
 			(width 0)
@@ -1639,7 +1801,7 @@
 	)
 	(wire
 		(pts
-			(xy 142.24 176.53) (xy 142.24 175.26)
+			(xy 139.7 133.35) (xy 139.7 132.08)
 		)
 		(stroke
 			(width 0)
@@ -1649,7 +1811,17 @@
 	)
 	(wire
 		(pts
-			(xy 26.67 80.01) (xy 119.38 80.01)
+			(xy 25.4 158.75) (xy 116.84 158.75)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c8dbceca-6ded-40a5-887e-3787e4bab4c1")
+	)
+	(wire
+		(pts
+			(xy 24.13 62.23) (xy 116.84 62.23)
 		)
 		(stroke
 			(width 0)
@@ -1659,7 +1831,17 @@
 	)
 	(wire
 		(pts
-			(xy 26.67 82.55) (xy 119.38 82.55)
+			(xy 25.4 148.59) (xy 116.84 148.59)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d6a87b19-cae2-42d6-a985-3f6835eb368f")
+	)
+	(wire
+		(pts
+			(xy 24.13 64.77) (xy 116.84 64.77)
 		)
 		(stroke
 			(width 0)
@@ -1669,7 +1851,7 @@
 	)
 	(wire
 		(pts
-			(xy 274.32 64.77) (xy 142.24 64.77)
+			(xy 271.78 46.99) (xy 139.7 46.99)
 		)
 		(stroke
 			(width 0)
@@ -1679,7 +1861,7 @@
 	)
 	(wire
 		(pts
-			(xy 27.94 142.24) (xy 119.38 142.24)
+			(xy 25.4 99.06) (xy 116.84 99.06)
 		)
 		(stroke
 			(width 0)
@@ -1689,7 +1871,7 @@
 	)
 	(wire
 		(pts
-			(xy 274.32 77.47) (xy 142.24 77.47)
+			(xy 271.78 59.69) (xy 139.7 59.69)
 		)
 		(stroke
 			(width 0)
@@ -1699,7 +1881,17 @@
 	)
 	(wire
 		(pts
-			(xy 274.32 82.55) (xy 142.24 82.55)
+			(xy 25.4 146.05) (xy 116.84 146.05)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "eebcba37-dbb1-433c-a6c5-4b66dd068827")
+	)
+	(wire
+		(pts
+			(xy 271.78 64.77) (xy 139.7 64.77)
 		)
 		(stroke
 			(width 0)
@@ -1709,7 +1901,17 @@
 	)
 	(wire
 		(pts
-			(xy 274.32 74.93) (xy 142.24 74.93)
+			(xy 273.05 163.83) (xy 139.7 163.83)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fcd496d9-0e01-498b-88dd-33aef52d8945")
+	)
+	(wire
+		(pts
+			(xy 271.78 57.15) (xy 139.7 57.15)
 		)
 		(stroke
 			(width 0)
@@ -1719,7 +1921,7 @@
 	)
 	(hierarchical_label "5V_GPIO4"
 		(shape input)
-		(at 274.32 74.93 0)
+		(at 271.78 57.15 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1731,7 +1933,7 @@
 	)
 	(hierarchical_label "CV_GPIO12"
 		(shape input)
-		(at 27.94 149.86 180)
+		(at 25.4 106.68 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1743,7 +1945,7 @@
 	)
 	(hierarchical_label "5V_GPIO15"
 		(shape input)
-		(at 275.59 157.48 0)
+		(at 273.05 114.3 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1753,9 +1955,45 @@
 		)
 		(uuid "136bc2b5-8784-494d-97de-bb3a18a1471d")
 	)
+	(hierarchical_label "5V_GPIO16"
+		(shape input)
+		(at 273.05 146.05 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "160207da-0de3-4a3f-8c5c-5b572a390641")
+	)
+	(hierarchical_label "5V_GPIO21"
+		(shape input)
+		(at 273.05 158.75 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "196e934b-62ee-4271-97ed-4c98017f8c66")
+	)
+	(hierarchical_label "CV_GPIO20"
+		(shape input)
+		(at 25.4 156.21 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "19bfce17-b020-4bfe-a4e3-6a7b6ca9cde7")
+	)
 	(hierarchical_label "5V_GPIO7"
 		(shape input)
-		(at 274.32 82.55 0)
+		(at 271.78 64.77 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1765,9 +2003,21 @@
 		)
 		(uuid "2326d9f2-7cdb-4bff-92d8-e54e17099b5c")
 	)
+	(hierarchical_label "CV_GPIO17"
+		(shape input)
+		(at 25.4 148.59 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "26c1455a-714c-4c1b-992f-80ea576e4096")
+	)
 	(hierarchical_label "5V_GPIO8"
 		(shape input)
-		(at 275.59 139.7 0)
+		(at 273.05 96.52 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1779,7 +2029,7 @@
 	)
 	(hierarchical_label "CV_GPIO1"
 		(shape input)
-		(at 26.67 67.31 180)
+		(at 24.13 49.53 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1791,7 +2041,7 @@
 	)
 	(hierarchical_label "CV_GPIO3"
 		(shape input)
-		(at 26.67 72.39 180)
+		(at 24.13 54.61 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1801,9 +2051,33 @@
 		)
 		(uuid "30c2198b-b8f9-45ea-8161-bed50fdbc2c6")
 	)
+	(hierarchical_label "5V_GPIO17"
+		(shape input)
+		(at 273.05 148.59 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "32045647-0822-444b-a32b-3d40c8953f1f")
+	)
+	(hierarchical_label "5V_GPIO23"
+		(shape input)
+		(at 273.05 163.83 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "34687d3b-4f4d-4a7d-88ff-734cd05cf062")
+	)
 	(hierarchical_label "CV_GPIO5"
 		(shape input)
-		(at 26.67 77.47 180)
+		(at 24.13 59.69 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1813,9 +2087,21 @@
 		)
 		(uuid "38cf22f0-09a6-44b6-abbb-20a3b6d05dde")
 	)
+	(hierarchical_label "CV_GPIO21"
+		(shape input)
+		(at 25.4 158.75 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "394d8d31-0e0d-47b4-a1cf-0aaaacd507e3")
+	)
 	(hierarchical_label "CV_GPIO10"
 		(shape input)
-		(at 27.94 144.78 180)
+		(at 25.4 101.6 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1827,7 +2113,7 @@
 	)
 	(hierarchical_label "CV_GPIO6"
 		(shape input)
-		(at 26.67 80.01 180)
+		(at 24.13 62.23 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1837,9 +2123,21 @@
 		)
 		(uuid "4da0b691-7995-4117-a171-550d79a5a323")
 	)
+	(hierarchical_label "5V_GPIO22"
+		(shape input)
+		(at 273.05 161.29 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "5728f374-a459-4741-82b7-627ee6b6c834")
+	)
 	(hierarchical_label "CV_GPIO11"
 		(shape input)
-		(at 27.94 147.32 180)
+		(at 25.4 104.14 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1851,7 +2149,7 @@
 	)
 	(hierarchical_label "5V_GPIO9"
 		(shape input)
-		(at 275.59 142.24 0)
+		(at 273.05 99.06 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1863,7 +2161,7 @@
 	)
 	(hierarchical_label "CV_GPIO15"
 		(shape input)
-		(at 27.94 157.48 180)
+		(at 25.4 114.3 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1875,7 +2173,7 @@
 	)
 	(hierarchical_label "5V_GPIO3"
 		(shape input)
-		(at 274.32 72.39 0)
+		(at 271.78 54.61 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1885,9 +2183,45 @@
 		)
 		(uuid "68f68975-29e6-4383-b59a-983c1244220e")
 	)
+	(hierarchical_label "5V_GPIO19"
+		(shape input)
+		(at 273.05 153.67 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "6b59cd41-eef9-4f81-9a51-5fa816461d1c")
+	)
+	(hierarchical_label "CV_GPIO23"
+		(shape input)
+		(at 25.4 163.83 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "74de2915-3c0a-45aa-a49b-5b155a7698f0")
+	)
+	(hierarchical_label "CV_GPIO19"
+		(shape input)
+		(at 25.4 153.67 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "7e0aaf84-e1e3-4fc9-9334-f464bafa2186")
+	)
 	(hierarchical_label "CV_GPIO4"
 		(shape input)
-		(at 26.67 74.93 180)
+		(at 24.13 57.15 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1899,7 +2233,7 @@
 	)
 	(hierarchical_label "5V_GPIO0"
 		(shape input)
-		(at 274.32 64.77 0)
+		(at 271.78 46.99 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1911,7 +2245,7 @@
 	)
 	(hierarchical_label "5V_GPIO2"
 		(shape input)
-		(at 274.32 69.85 0)
+		(at 271.78 52.07 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1923,7 +2257,7 @@
 	)
 	(hierarchical_label "5V_GPIO1"
 		(shape input)
-		(at 274.32 67.31 0)
+		(at 271.78 49.53 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1933,9 +2267,21 @@
 		)
 		(uuid "a54c35f8-9ecb-4165-a786-83703c24a6aa")
 	)
+	(hierarchical_label "CV_GPIO16"
+		(shape input)
+		(at 25.4 146.05 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "aa2c93a7-05f7-4883-8529-3bbe4552ff21")
+	)
 	(hierarchical_label "CV_GPIO7"
 		(shape input)
-		(at 26.67 82.55 180)
+		(at 24.13 64.77 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1947,7 +2293,7 @@
 	)
 	(hierarchical_label "CV_GPIO8"
 		(shape input)
-		(at 27.94 139.7 180)
+		(at 25.4 96.52 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1959,7 +2305,7 @@
 	)
 	(hierarchical_label "CV_GPIO2"
 		(shape input)
-		(at 26.67 69.85 180)
+		(at 24.13 52.07 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1971,7 +2317,7 @@
 	)
 	(hierarchical_label "5V_GPIO10"
 		(shape input)
-		(at 275.59 144.78 0)
+		(at 273.05 101.6 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1981,9 +2327,21 @@
 		)
 		(uuid "b5fcb6d3-03dc-4baf-89cd-0dcb70f1d32a")
 	)
+	(hierarchical_label "CV_GPIO22"
+		(shape input)
+		(at 25.4 161.29 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "c4847cad-c137-4718-af1f-ef426a24c7d5")
+	)
 	(hierarchical_label "CV_GPIO13"
 		(shape input)
-		(at 27.94 152.4 180)
+		(at 25.4 109.22 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1993,9 +2351,21 @@
 		)
 		(uuid "c9f69637-7ddf-42aa-9217-f88c9e44df19")
 	)
+	(hierarchical_label "5V_GPIO18"
+		(shape input)
+		(at 273.05 151.13 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "cb259bce-728f-4e21-82a6-1418f86aab25")
+	)
 	(hierarchical_label "5V_GPIO14"
 		(shape input)
-		(at 275.59 154.94 0)
+		(at 273.05 111.76 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2007,7 +2377,7 @@
 	)
 	(hierarchical_label "5V_GPIO12"
 		(shape input)
-		(at 275.59 149.86 0)
+		(at 273.05 106.68 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2019,7 +2389,7 @@
 	)
 	(hierarchical_label "5V_GPIO6"
 		(shape input)
-		(at 274.32 80.01 0)
+		(at 271.78 62.23 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2031,7 +2401,7 @@
 	)
 	(hierarchical_label "5V_GPIO5"
 		(shape input)
-		(at 274.32 77.47 0)
+		(at 271.78 59.69 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2043,7 +2413,7 @@
 	)
 	(hierarchical_label "CV_GPIO14"
 		(shape input)
-		(at 27.94 154.94 180)
+		(at 25.4 111.76 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2053,9 +2423,21 @@
 		)
 		(uuid "dd38eb74-c843-4a14-bbdf-594c5417e326")
 	)
+	(hierarchical_label "CV_GPIO18"
+		(shape input)
+		(at 25.4 151.13 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "e1d07d70-0daf-4ac6-8e02-3b3e38b70150")
+	)
 	(hierarchical_label "CV_GPIO9"
 		(shape input)
-		(at 27.94 142.24 180)
+		(at 25.4 99.06 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2067,7 +2449,7 @@
 	)
 	(hierarchical_label "CV_GPIO0"
 		(shape input)
-		(at 26.67 64.77 180)
+		(at 24.13 46.99 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2079,7 +2461,7 @@
 	)
 	(hierarchical_label "5V_GPIO13"
 		(shape input)
-		(at 275.59 152.4 0)
+		(at 273.05 109.22 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2089,9 +2471,21 @@
 		)
 		(uuid "f0e2da2a-a415-4817-8f0e-84af31be419a")
 	)
+	(hierarchical_label "5V_GPIO20"
+		(shape input)
+		(at 273.05 156.21 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "f90961b0-a24a-46fd-8077-da58a2ebbdd8")
+	)
 	(hierarchical_label "5V_GPIO11"
 		(shape input)
-		(at 275.59 147.32 0)
+		(at 273.05 104.14 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2102,17 +2496,17 @@
 		(uuid "fd8e8839-fd03-4b72-98ab-9632b840fccc")
 	)
 	(symbol
-		(lib_id "power:GND")
-		(at 104.14 101.6 0)
+		(lib_id "power:+3.3V")
+		(at 101.6 171.45 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "0ad31846-d07a-45b7-b57f-7d13525f6aee")
-		(property "Reference" "#PWR06"
-			(at 104.14 107.95 0)
+		(uuid "05059667-8062-4dcd-b9ba-7adb81813892")
+		(property "Reference" "#PWR016"
+			(at 101.6 175.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2120,8 +2514,8 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "GND"
-			(at 104.14 106.68 0)
+		(property "Value" "+3.3V"
+			(at 101.6 166.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2129,7 +2523,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 104.14 101.6 0)
+			(at 101.6 171.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2138,7 +2532,73 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 104.14 101.6 0)
+			(at 101.6 171.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
+			(at 101.6 171.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "40fc0885-3e62-49de-b457-3ecc358a7ed1")
+		)
+		(instances
+			(project "fantoccia_carrier"
+				(path "/faa652bd-d277-4d95-a530-1d3e26469af1/b160e170-6243-47aa-bfc3-8bee352c5578"
+					(reference "#PWR016")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 152.4 182.88 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "07f5704d-fc93-4f09-88d8-653df70dc79e")
+		(property "Reference" "#PWR020"
+			(at 152.4 189.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 152.4 187.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 152.4 182.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 152.4 182.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2147,7 +2607,73 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 104.14 101.6 0)
+			(at 152.4 182.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "1eac5111-07b4-4892-b80e-9f059f3c4de0")
+		)
+		(instances
+			(project "fantoccia_carrier"
+				(path "/faa652bd-d277-4d95-a530-1d3e26469af1/b160e170-6243-47aa-bfc3-8bee352c5578"
+					(reference "#PWR020")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 101.6 83.82 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "0ad31846-d07a-45b7-b57f-7d13525f6aee")
+		(property "Reference" "#PWR06"
+			(at 101.6 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 101.6 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 101.6 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 101.6 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 101.6 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2169,7 +2695,7 @@
 	)
 	(symbol
 		(lib_id "AVR-KiCAD-Lib-Capacitors:CGA3E2X7R1H104K080AA")
-		(at 104.14 95.25 270)
+		(at 101.6 77.47 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2178,7 +2704,7 @@
 		(fields_autoplaced yes)
 		(uuid "129edefe-6066-41ed-b065-9212c3073589")
 		(property "Reference" "C1"
-			(at 100.33 94.6149 90)
+			(at 97.79 76.8349 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2187,7 +2713,7 @@
 			)
 		)
 		(property "Value" "CGA3E2X7R1H104K080AA"
-			(at 109.22 96.52 0)
+			(at 106.68 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2196,7 +2722,7 @@
 			)
 		)
 		(property "Footprint" "AVR-KiCAD-Lib-Capacitors:C0603"
-			(at 104.14 90.17 0)
+			(at 101.6 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2205,7 +2731,7 @@
 			)
 		)
 		(property "Datasheet" "https://product.tdk.com/info/en/catalog/datasheets/mlcc_automotive_general_en.pdf"
-			(at 106.68 92.71 0)
+			(at 104.14 74.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2214,7 +2740,7 @@
 			)
 		)
 		(property "Description" "0.1µF ±10% 50V Ceramic Capacitor X7R 0603 (1608 Metric)"
-			(at 172.72 158.75 0)
+			(at 170.18 140.97 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2223,7 +2749,7 @@
 			)
 		)
 		(property "Cost QTY: 1" "0.11000"
-			(at 110.49 97.79 0)
+			(at 107.95 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2232,7 +2758,7 @@
 			)
 		)
 		(property "Cost QTY: 1000" "0.01972"
-			(at 113.03 100.33 0)
+			(at 110.49 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2241,7 +2767,7 @@
 			)
 		)
 		(property "Cost QTY: 2500" "*"
-			(at 115.57 102.87 0)
+			(at 113.03 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2250,7 +2776,7 @@
 			)
 		)
 		(property "Cost QTY: 5000" "*"
-			(at 118.11 105.41 0)
+			(at 115.57 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2259,7 +2785,7 @@
 			)
 		)
 		(property "Cost QTY: 10000" "*"
-			(at 120.65 107.95 0)
+			(at 118.11 90.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2268,7 +2794,7 @@
 			)
 		)
 		(property "MFR" "TDK Corporation"
-			(at 123.19 110.49 0)
+			(at 120.65 92.71 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2277,7 +2803,7 @@
 			)
 		)
 		(property "MFR#" "CGA3E2X7R1H104K080AA"
-			(at 125.73 113.03 0)
+			(at 123.19 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2286,7 +2812,7 @@
 			)
 		)
 		(property "Vendor" "Digikey"
-			(at 128.27 115.57 0)
+			(at 125.73 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2295,7 +2821,7 @@
 			)
 		)
 		(property "Vendor #" "445-5666-1-ND"
-			(at 130.81 118.11 0)
+			(at 128.27 100.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2304,7 +2830,7 @@
 			)
 		)
 		(property "Designer" "AVR"
-			(at 133.35 120.65 0)
+			(at 130.81 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2313,7 +2839,7 @@
 			)
 		)
 		(property "Height" "0.9mm"
-			(at 135.89 123.19 0)
+			(at 133.35 105.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2322,7 +2848,7 @@
 			)
 		)
 		(property "Date Created" "6/17/2020"
-			(at 163.83 151.13 0)
+			(at 161.29 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2331,7 +2857,7 @@
 			)
 		)
 		(property "Date Modified" "6/17/2020"
-			(at 138.43 125.73 0)
+			(at 135.89 107.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2340,7 +2866,7 @@
 			)
 		)
 		(property "Lead-Free ?" "Yes"
-			(at 140.97 128.27 0)
+			(at 138.43 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2349,7 +2875,7 @@
 			)
 		)
 		(property "RoHS Levels" "1"
-			(at 143.51 130.81 0)
+			(at 140.97 113.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2358,7 +2884,7 @@
 			)
 		)
 		(property "Mounting" "SMT"
-			(at 146.05 133.35 0)
+			(at 143.51 115.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2367,7 +2893,7 @@
 			)
 		)
 		(property "Pin Count #" "2"
-			(at 148.59 135.89 0)
+			(at 146.05 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2376,7 +2902,7 @@
 			)
 		)
 		(property "Status" "Active"
-			(at 151.13 138.43 0)
+			(at 148.59 120.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2385,7 +2911,7 @@
 			)
 		)
 		(property "Tolerance" "10%"
-			(at 153.67 140.97 0)
+			(at 151.13 123.19 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2394,7 +2920,7 @@
 			)
 		)
 		(property "Type" "Capacitor"
-			(at 156.21 143.51 0)
+			(at 153.67 125.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2403,7 +2929,7 @@
 			)
 		)
 		(property "Voltage" "50V"
-			(at 158.75 146.05 0)
+			(at 156.21 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2412,7 +2938,7 @@
 			)
 		)
 		(property "Package" "0603"
-			(at 162.56 148.59 0)
+			(at 160.02 130.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2421,7 +2947,7 @@
 			)
 		)
 		(property "_Value_" "0.1uF"
-			(at 100.33 97.1549 90)
+			(at 97.79 79.3749 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2430,7 +2956,7 @@
 			)
 		)
 		(property "Management_ID" "*"
-			(at 170.18 156.21 0)
+			(at 167.64 138.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2455,7 +2981,7 @@
 	)
 	(symbol
 		(lib_id "power:+5V")
-		(at 154.94 165.1 0)
+		(at 152.4 121.92 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2464,7 +2990,7 @@
 		(fields_autoplaced yes)
 		(uuid "13b4302b-7619-4485-9a45-99fe408f70a2")
 		(property "Reference" "#PWR012"
-			(at 154.94 168.91 0)
+			(at 152.4 125.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2473,7 +2999,7 @@
 			)
 		)
 		(property "Value" "+5V"
-			(at 154.94 160.02 0)
+			(at 152.4 116.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2481,7 +3007,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 154.94 165.1 0)
+			(at 152.4 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2490,7 +3016,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 154.94 165.1 0)
+			(at 152.4 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2499,7 +3025,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+5V\""
-			(at 154.94 165.1 0)
+			(at 152.4 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2521,7 +3047,7 @@
 	)
 	(symbol
 		(lib_id "AVR-KiCAD-Lib-ICs:TXS0108EPWR")
-		(at 124.46 132.08 0)
+		(at 121.92 88.9 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2529,7 +3055,7 @@
 		(dnp no)
 		(uuid "2e1bf069-81de-4cfd-8192-823a227a6f02")
 		(property "Reference" "U3"
-			(at 125.476 131.064 0)
+			(at 122.936 87.884 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2537,7 +3063,7 @@
 			)
 		)
 		(property "Value" "TXS0108EPWR"
-			(at 134.62 102.87 0)
+			(at 132.08 59.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2546,7 +3072,7 @@
 			)
 		)
 		(property "Footprint" "AVR-KiCAD-Lib-ICs:SOP65P640X120-20N"
-			(at 128.27 107.95 0)
+			(at 125.73 64.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2555,7 +3081,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/txs0108e.pdf?ts=1711044790815"
-			(at 130.81 105.41 0)
+			(at 128.27 62.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2564,7 +3090,7 @@
 			)
 		)
 		(property "Description" "Voltage Level Translator Bidirectional 1 Circuit 8 Channel 60Mbps 20-TSSOP"
-			(at 194.31 39.37 0)
+			(at 191.77 -3.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2573,7 +3099,7 @@
 			)
 		)
 		(property "Cost QTY: 1" "1.50000"
-			(at 135.89 99.06 0)
+			(at 133.35 55.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2582,7 +3108,7 @@
 			)
 		)
 		(property "Cost QTY: 1000" "0.73518"
-			(at 138.43 96.52 0)
+			(at 135.89 53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2591,7 +3117,7 @@
 			)
 		)
 		(property "Cost QTY: 2500" "0.68448"
-			(at 140.97 93.98 0)
+			(at 138.43 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2600,7 +3126,7 @@
 			)
 		)
 		(property "Cost QTY: 5000" "*"
-			(at 143.51 91.44 0)
+			(at 140.97 48.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2609,7 +3135,7 @@
 			)
 		)
 		(property "Cost QTY: 10000" "0.63378"
-			(at 146.05 88.9 0)
+			(at 143.51 45.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2618,7 +3144,7 @@
 			)
 		)
 		(property "MFR" "*"
-			(at 148.59 86.36 0)
+			(at 146.05 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2627,7 +3153,7 @@
 			)
 		)
 		(property "MFR#" "TXS0108EPWR"
-			(at 151.13 83.82 0)
+			(at 148.59 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2636,7 +3162,7 @@
 			)
 		)
 		(property "Vendor" "Digikey"
-			(at 153.67 81.28 0)
+			(at 151.13 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2645,7 +3171,7 @@
 			)
 		)
 		(property "Vendor #" "296-23011-2-ND"
-			(at 156.21 78.74 0)
+			(at 153.67 35.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2654,7 +3180,7 @@
 			)
 		)
 		(property "Designer" "Adam Vadala-Roth"
-			(at 158.75 76.2 0)
+			(at 156.21 33.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2663,7 +3189,7 @@
 			)
 		)
 		(property "Height" "1.2mm"
-			(at 161.29 73.66 0)
+			(at 158.75 30.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2672,7 +3198,7 @@
 			)
 		)
 		(property "Date Created" "3/21/2024"
-			(at 189.23 45.72 0)
+			(at 186.69 2.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2681,7 +3207,7 @@
 			)
 		)
 		(property "Date Modified" "3/21/2024"
-			(at 163.83 71.12 0)
+			(at 161.29 27.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2690,7 +3216,7 @@
 			)
 		)
 		(property "Lead-Free ?" "Yes"
-			(at 166.37 68.58 0)
+			(at 163.83 25.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2699,7 +3225,7 @@
 			)
 		)
 		(property "RoHS Levels" "1"
-			(at 168.91 66.04 0)
+			(at 166.37 22.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2708,7 +3234,7 @@
 			)
 		)
 		(property "Mounting" "SMT"
-			(at 171.45 63.5 0)
+			(at 168.91 20.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2717,7 +3243,7 @@
 			)
 		)
 		(property "Pin Count #" "20"
-			(at 173.99 60.96 0)
+			(at 171.45 17.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2726,7 +3252,7 @@
 			)
 		)
 		(property "Status" "Active"
-			(at 176.53 58.42 0)
+			(at 173.99 15.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2735,7 +3261,7 @@
 			)
 		)
 		(property "Tolerance" "N/A"
-			(at 179.07 55.88 0)
+			(at 176.53 12.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2744,7 +3270,7 @@
 			)
 		)
 		(property "Type" "IC"
-			(at 181.61 53.34 0)
+			(at 179.07 10.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2753,7 +3279,7 @@
 			)
 		)
 		(property "Voltage" "3.3V/5V"
-			(at 184.15 50.8 0)
+			(at 181.61 7.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2762,7 +3288,7 @@
 			)
 		)
 		(property "Package" "TSSOP20"
-			(at 186.69 46.99 0)
+			(at 184.15 3.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2771,7 +3297,7 @@
 			)
 		)
 		(property "_Value_" "TXS0108EPWR"
-			(at 131.064 178.816 0)
+			(at 128.524 135.636 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2779,7 +3305,7 @@
 			)
 		)
 		(property "Management_ID" "*"
-			(at 194.31 39.37 0)
+			(at 191.77 -3.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2858,16 +3384,16 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 142.24 176.53 0)
+		(at 101.6 182.88 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "3ce1b736-4d9d-45b8-8f53-a1d03a80061e")
-		(property "Reference" "#PWR08"
-			(at 142.24 182.88 0)
+		(uuid "38d356f9-6fe2-4920-ae1e-3840f4bcf163")
+		(property "Reference" "#PWR017"
+			(at 101.6 189.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2876,7 +3402,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 142.24 181.61 0)
+			(at 101.6 187.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2884,7 +3410,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 142.24 176.53 0)
+			(at 101.6 182.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2893,7 +3419,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 142.24 176.53 0)
+			(at 101.6 182.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2902,7 +3428,73 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 142.24 176.53 0)
+			(at 101.6 182.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "8aaef8a8-b886-4943-bc9a-4037a5c19a73")
+		)
+		(instances
+			(project "fantoccia_carrier"
+				(path "/faa652bd-d277-4d95-a530-1d3e26469af1/b160e170-6243-47aa-bfc3-8bee352c5578"
+					(reference "#PWR017")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 139.7 133.35 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "3ce1b736-4d9d-45b8-8f53-a1d03a80061e")
+		(property "Reference" "#PWR08"
+			(at 139.7 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 139.7 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 139.7 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 139.7 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 139.7 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2924,7 +3516,7 @@
 	)
 	(symbol
 		(lib_id "power:+3.3V")
-		(at 104.14 165.1 0)
+		(at 101.6 121.92 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2933,7 +3525,7 @@
 		(fields_autoplaced yes)
 		(uuid "45305be3-142b-4c97-859a-be6766580460")
 		(property "Reference" "#PWR05"
-			(at 104.14 168.91 0)
+			(at 101.6 125.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2942,7 +3534,7 @@
 			)
 		)
 		(property "Value" "+3.3V"
-			(at 104.14 160.02 0)
+			(at 101.6 116.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2950,7 +3542,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 104.14 165.1 0)
+			(at 101.6 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2959,7 +3551,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 104.14 165.1 0)
+			(at 101.6 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2968,7 +3560,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
-			(at 104.14 165.1 0)
+			(at 101.6 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2989,8 +3581,294 @@
 		)
 	)
 	(symbol
+		(lib_id "AVR-KiCAD-Lib-Capacitors:CGA3E2X7R1H104K080AA")
+		(at 152.4 176.53 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "48666387-49f9-490e-891b-65f121c30150")
+		(property "Reference" "C6"
+			(at 148.59 175.8949 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "CGA3E2X7R1H104K080AA"
+			(at 157.48 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "AVR-KiCAD-Lib-Capacitors:C0603"
+			(at 152.4 171.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://product.tdk.com/info/en/catalog/datasheets/mlcc_automotive_general_en.pdf"
+			(at 154.94 173.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "0.1µF ±10% 50V Ceramic Capacitor X7R 0603 (1608 Metric)"
+			(at 220.98 240.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Cost QTY: 1" "0.11000"
+			(at 158.75 179.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Cost QTY: 1000" "0.01972"
+			(at 161.29 181.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Cost QTY: 2500" "*"
+			(at 163.83 184.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Cost QTY: 5000" "*"
+			(at 166.37 186.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Cost QTY: 10000" "*"
+			(at 168.91 189.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR" "TDK Corporation"
+			(at 171.45 191.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR#" "CGA3E2X7R1H104K080AA"
+			(at 173.99 194.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Vendor" "Digikey"
+			(at 176.53 196.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Vendor #" "445-5666-1-ND"
+			(at 179.07 199.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Designer" "AVR"
+			(at 181.61 201.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Height" "0.9mm"
+			(at 184.15 204.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Date Created" "6/17/2020"
+			(at 212.09 232.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Date Modified" "6/17/2020"
+			(at 186.69 207.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Lead-Free ?" "Yes"
+			(at 189.23 209.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "RoHS Levels" "1"
+			(at 191.77 212.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mounting" "SMT"
+			(at 194.31 214.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Pin Count #" "2"
+			(at 196.85 217.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Status" "Active"
+			(at 199.39 219.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Tolerance" "10%"
+			(at 201.93 222.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Type" "Capacitor"
+			(at 204.47 224.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage" "50V"
+			(at 207.01 227.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "0603"
+			(at 210.82 229.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "_Value_" "0.1uF"
+			(at 148.59 178.4349 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Management_ID" "*"
+			(at 218.44 237.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "85e43ccc-174b-48cb-a26c-7c0dd437a58d")
+		)
+		(pin "1"
+			(uuid "13f82853-3faa-4c8e-80b1-ed6d31a97b28")
+		)
+		(instances
+			(project "fantoccia_carrier"
+				(path "/faa652bd-d277-4d95-a530-1d3e26469af1/b160e170-6243-47aa-bfc3-8bee352c5578"
+					(reference "C6")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
-		(at 104.14 176.53 0)
+		(at 101.6 133.35 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2999,7 +3877,7 @@
 		(fields_autoplaced yes)
 		(uuid "4adb5305-4ec0-48b6-8f10-1388acec50c5")
 		(property "Reference" "#PWR09"
-			(at 104.14 182.88 0)
+			(at 101.6 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3008,7 +3886,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 104.14 181.61 0)
+			(at 101.6 138.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3016,7 +3894,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 104.14 176.53 0)
+			(at 101.6 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3025,7 +3903,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 104.14 176.53 0)
+			(at 101.6 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3034,7 +3912,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 104.14 176.53 0)
+			(at 101.6 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3056,7 +3934,7 @@
 	)
 	(symbol
 		(lib_id "AVR-KiCAD-Lib-ICs:TXS0108EPWR")
-		(at 124.46 57.15 0)
+		(at 121.92 39.37 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3064,7 +3942,7 @@
 		(dnp no)
 		(uuid "4df2fbdd-905d-4665-b791-578d4ef6909f")
 		(property "Reference" "U2"
-			(at 125.476 56.134 0)
+			(at 122.936 38.354 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3072,7 +3950,7 @@
 			)
 		)
 		(property "Value" "TXS0108EPWR"
-			(at 134.62 27.94 0)
+			(at 132.08 10.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3081,7 +3959,7 @@
 			)
 		)
 		(property "Footprint" "AVR-KiCAD-Lib-ICs:SOP65P640X120-20N"
-			(at 128.27 33.02 0)
+			(at 125.73 15.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3090,7 +3968,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/txs0108e.pdf?ts=1711044790815"
-			(at 130.81 30.48 0)
+			(at 128.27 12.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3099,7 +3977,7 @@
 			)
 		)
 		(property "Description" "Voltage Level Translator Bidirectional 1 Circuit 8 Channel 60Mbps 20-TSSOP"
-			(at 194.31 -35.56 0)
+			(at 191.77 -53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3108,7 +3986,7 @@
 			)
 		)
 		(property "Cost QTY: 1" "1.50000"
-			(at 135.89 24.13 0)
+			(at 133.35 6.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3117,7 +3995,7 @@
 			)
 		)
 		(property "Cost QTY: 1000" "0.73518"
-			(at 138.43 21.59 0)
+			(at 135.89 3.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3126,7 +4004,7 @@
 			)
 		)
 		(property "Cost QTY: 2500" "0.68448"
-			(at 140.97 19.05 0)
+			(at 138.43 1.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3135,7 +4013,7 @@
 			)
 		)
 		(property "Cost QTY: 5000" "*"
-			(at 143.51 16.51 0)
+			(at 140.97 -1.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3144,7 +4022,7 @@
 			)
 		)
 		(property "Cost QTY: 10000" "0.63378"
-			(at 146.05 13.97 0)
+			(at 143.51 -3.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3153,7 +4031,7 @@
 			)
 		)
 		(property "MFR" "*"
-			(at 148.59 11.43 0)
+			(at 146.05 -6.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3162,7 +4040,7 @@
 			)
 		)
 		(property "MFR#" "TXS0108EPWR"
-			(at 151.13 8.89 0)
+			(at 148.59 -8.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3171,7 +4049,7 @@
 			)
 		)
 		(property "Vendor" "Digikey"
-			(at 153.67 6.35 0)
+			(at 151.13 -11.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3180,7 +4058,7 @@
 			)
 		)
 		(property "Vendor #" "296-23011-2-ND"
-			(at 156.21 3.81 0)
+			(at 153.67 -13.97 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3189,7 +4067,7 @@
 			)
 		)
 		(property "Designer" "Adam Vadala-Roth"
-			(at 158.75 1.27 0)
+			(at 156.21 -16.51 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3198,7 +4076,7 @@
 			)
 		)
 		(property "Height" "1.2mm"
-			(at 161.29 -1.27 0)
+			(at 158.75 -19.05 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3207,7 +4085,7 @@
 			)
 		)
 		(property "Date Created" "3/21/2024"
-			(at 189.23 -29.21 0)
+			(at 186.69 -46.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3216,7 +4094,7 @@
 			)
 		)
 		(property "Date Modified" "3/21/2024"
-			(at 163.83 -3.81 0)
+			(at 161.29 -21.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3225,7 +4103,7 @@
 			)
 		)
 		(property "Lead-Free ?" "Yes"
-			(at 166.37 -6.35 0)
+			(at 163.83 -24.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3234,7 +4112,7 @@
 			)
 		)
 		(property "RoHS Levels" "1"
-			(at 168.91 -8.89 0)
+			(at 166.37 -26.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3243,7 +4121,7 @@
 			)
 		)
 		(property "Mounting" "SMT"
-			(at 171.45 -11.43 0)
+			(at 168.91 -29.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3252,7 +4130,7 @@
 			)
 		)
 		(property "Pin Count #" "20"
-			(at 173.99 -13.97 0)
+			(at 171.45 -31.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3261,7 +4139,7 @@
 			)
 		)
 		(property "Status" "Active"
-			(at 176.53 -16.51 0)
+			(at 173.99 -34.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3270,7 +4148,7 @@
 			)
 		)
 		(property "Tolerance" "N/A"
-			(at 179.07 -19.05 0)
+			(at 176.53 -36.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3279,7 +4157,7 @@
 			)
 		)
 		(property "Type" "IC"
-			(at 181.61 -21.59 0)
+			(at 179.07 -39.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3288,7 +4166,7 @@
 			)
 		)
 		(property "Voltage" "3.3V/5V"
-			(at 184.15 -24.13 0)
+			(at 181.61 -41.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3297,7 +4175,7 @@
 			)
 		)
 		(property "Package" "TSSOP20"
-			(at 186.69 -27.94 0)
+			(at 184.15 -45.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3306,7 +4184,7 @@
 			)
 		)
 		(property "_Value_" "TXS0108EPWR"
-			(at 130.81 103.886 0)
+			(at 128.27 86.106 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3314,7 +4192,7 @@
 			)
 		)
 		(property "Management_ID" "*"
-			(at 194.31 -35.56 0)
+			(at 191.77 -53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3393,7 +4271,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 154.94 101.6 0)
+		(at 152.4 83.82 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3402,7 +4280,7 @@
 		(fields_autoplaced yes)
 		(uuid "805aed7b-88c9-47c2-8ed1-ba41aa7f8e36")
 		(property "Reference" "#PWR011"
-			(at 154.94 107.95 0)
+			(at 152.4 90.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3411,7 +4289,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 154.94 106.68 0)
+			(at 152.4 88.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3419,7 +4297,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 154.94 101.6 0)
+			(at 152.4 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3428,7 +4306,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 154.94 101.6 0)
+			(at 152.4 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3437,7 +4315,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 154.94 101.6 0)
+			(at 152.4 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3458,17 +4336,17 @@
 		)
 	)
 	(symbol
-		(lib_id "power:+5V")
-		(at 154.94 90.17 0)
+		(lib_id "power:GND")
+		(at 139.7 182.88 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "9544567c-aaf5-43b6-8369-84cf9186aa2e")
-		(property "Reference" "#PWR013"
-			(at 154.94 93.98 0)
+		(uuid "82111e5f-b26d-4e5a-bc0f-12f56b601750")
+		(property "Reference" "#PWR018"
+			(at 139.7 189.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3476,8 +4354,8 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "+5V"
-			(at 154.94 85.09 0)
+		(property "Value" "GND"
+			(at 139.7 187.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3485,7 +4363,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 154.94 90.17 0)
+			(at 139.7 182.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3494,7 +4372,73 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 154.94 90.17 0)
+			(at 139.7 182.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 139.7 182.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "ebf6c434-da86-409a-9633-9e81bd73cbf8")
+		)
+		(instances
+			(project "fantoccia_carrier"
+				(path "/faa652bd-d277-4d95-a530-1d3e26469af1/b160e170-6243-47aa-bfc3-8bee352c5578"
+					(reference "#PWR018")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+5V")
+		(at 152.4 171.45 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "9331c8c1-7e85-40c7-9c91-1ba6896ee457")
+		(property "Reference" "#PWR019"
+			(at 152.4 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+5V"
+			(at 152.4 166.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 152.4 171.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 152.4 171.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3503,7 +4447,73 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+5V\""
-			(at 154.94 90.17 0)
+			(at 152.4 171.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "115f4daf-4d71-476c-8986-6de6c7cad69c")
+		)
+		(instances
+			(project "fantoccia_carrier"
+				(path "/faa652bd-d277-4d95-a530-1d3e26469af1/b160e170-6243-47aa-bfc3-8bee352c5578"
+					(reference "#PWR019")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+5V")
+		(at 152.4 72.39 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "9544567c-aaf5-43b6-8369-84cf9186aa2e")
+		(property "Reference" "#PWR013"
+			(at 152.4 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+5V"
+			(at 152.4 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 152.4 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 152.4 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+5V\""
+			(at 152.4 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3525,7 +4535,7 @@
 	)
 	(symbol
 		(lib_id "AVR-KiCAD-Lib-Capacitors:CGA3E2X7R1H104K080AA")
-		(at 154.94 170.18 270)
+		(at 152.4 127 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3534,7 +4544,7 @@
 		(fields_autoplaced yes)
 		(uuid "9efade88-b3e2-4fe4-957f-6df0ae23561b")
 		(property "Reference" "C4"
-			(at 151.13 169.5449 90)
+			(at 148.59 126.3649 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3543,7 +4553,7 @@
 			)
 		)
 		(property "Value" "CGA3E2X7R1H104K080AA"
-			(at 160.02 171.45 0)
+			(at 157.48 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3552,7 +4562,7 @@
 			)
 		)
 		(property "Footprint" "AVR-KiCAD-Lib-Capacitors:C0603"
-			(at 154.94 165.1 0)
+			(at 152.4 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3561,7 +4571,7 @@
 			)
 		)
 		(property "Datasheet" "https://product.tdk.com/info/en/catalog/datasheets/mlcc_automotive_general_en.pdf"
-			(at 157.48 167.64 0)
+			(at 154.94 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3570,7 +4580,7 @@
 			)
 		)
 		(property "Description" "0.1µF ±10% 50V Ceramic Capacitor X7R 0603 (1608 Metric)"
-			(at 223.52 233.68 0)
+			(at 220.98 190.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3579,7 +4589,7 @@
 			)
 		)
 		(property "Cost QTY: 1" "0.11000"
-			(at 161.29 172.72 0)
+			(at 158.75 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3588,7 +4598,7 @@
 			)
 		)
 		(property "Cost QTY: 1000" "0.01972"
-			(at 163.83 175.26 0)
+			(at 161.29 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3597,7 +4607,7 @@
 			)
 		)
 		(property "Cost QTY: 2500" "*"
-			(at 166.37 177.8 0)
+			(at 163.83 134.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3606,7 +4616,7 @@
 			)
 		)
 		(property "Cost QTY: 5000" "*"
-			(at 168.91 180.34 0)
+			(at 166.37 137.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3615,7 +4625,7 @@
 			)
 		)
 		(property "Cost QTY: 10000" "*"
-			(at 171.45 182.88 0)
+			(at 168.91 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3624,7 +4634,7 @@
 			)
 		)
 		(property "MFR" "TDK Corporation"
-			(at 173.99 185.42 0)
+			(at 171.45 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3633,7 +4643,7 @@
 			)
 		)
 		(property "MFR#" "CGA3E2X7R1H104K080AA"
-			(at 176.53 187.96 0)
+			(at 173.99 144.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3642,7 +4652,7 @@
 			)
 		)
 		(property "Vendor" "Digikey"
-			(at 179.07 190.5 0)
+			(at 176.53 147.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3651,7 +4661,7 @@
 			)
 		)
 		(property "Vendor #" "445-5666-1-ND"
-			(at 181.61 193.04 0)
+			(at 179.07 149.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3660,7 +4670,7 @@
 			)
 		)
 		(property "Designer" "AVR"
-			(at 184.15 195.58 0)
+			(at 181.61 152.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3669,7 +4679,7 @@
 			)
 		)
 		(property "Height" "0.9mm"
-			(at 186.69 198.12 0)
+			(at 184.15 154.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3678,7 +4688,7 @@
 			)
 		)
 		(property "Date Created" "6/17/2020"
-			(at 214.63 226.06 0)
+			(at 212.09 182.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3687,7 +4697,7 @@
 			)
 		)
 		(property "Date Modified" "6/17/2020"
-			(at 189.23 200.66 0)
+			(at 186.69 157.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3696,7 +4706,7 @@
 			)
 		)
 		(property "Lead-Free ?" "Yes"
-			(at 191.77 203.2 0)
+			(at 189.23 160.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3705,7 +4715,7 @@
 			)
 		)
 		(property "RoHS Levels" "1"
-			(at 194.31 205.74 0)
+			(at 191.77 162.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3714,7 +4724,7 @@
 			)
 		)
 		(property "Mounting" "SMT"
-			(at 196.85 208.28 0)
+			(at 194.31 165.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3723,7 +4733,7 @@
 			)
 		)
 		(property "Pin Count #" "2"
-			(at 199.39 210.82 0)
+			(at 196.85 167.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3732,7 +4742,7 @@
 			)
 		)
 		(property "Status" "Active"
-			(at 201.93 213.36 0)
+			(at 199.39 170.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3741,7 +4751,7 @@
 			)
 		)
 		(property "Tolerance" "10%"
-			(at 204.47 215.9 0)
+			(at 201.93 172.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3750,7 +4760,7 @@
 			)
 		)
 		(property "Type" "Capacitor"
-			(at 207.01 218.44 0)
+			(at 204.47 175.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3759,7 +4769,7 @@
 			)
 		)
 		(property "Voltage" "50V"
-			(at 209.55 220.98 0)
+			(at 207.01 177.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3768,7 +4778,7 @@
 			)
 		)
 		(property "Package" "0603"
-			(at 213.36 223.52 0)
+			(at 210.82 180.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3777,7 +4787,7 @@
 			)
 		)
 		(property "_Value_" "0.1uF"
-			(at 151.13 172.0849 90)
+			(at 148.59 128.9049 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3786,7 +4796,7 @@
 			)
 		)
 		(property "Management_ID" "*"
-			(at 220.98 231.14 0)
+			(at 218.44 187.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3811,7 +4821,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 154.94 176.53 0)
+		(at 152.4 133.35 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3820,7 +4830,7 @@
 		(fields_autoplaced yes)
 		(uuid "aac3626b-2b91-4231-a08c-f2217ed4a6ee")
 		(property "Reference" "#PWR010"
-			(at 154.94 182.88 0)
+			(at 152.4 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3829,7 +4839,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 154.94 181.61 0)
+			(at 152.4 138.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3837,7 +4847,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 154.94 176.53 0)
+			(at 152.4 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3846,7 +4856,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 154.94 176.53 0)
+			(at 152.4 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3855,7 +4865,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 154.94 176.53 0)
+			(at 152.4 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3876,35 +4886,24 @@
 		)
 	)
 	(symbol
-		(lib_id "AVR-KiCAD-Lib-Capacitors:CGA3E2X7R1H104K080AA")
-		(at 104.14 170.18 270)
+		(lib_id "AVR-KiCAD-Lib-ICs:TXS0108EPWR")
+		(at 121.92 138.43 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "b74efe1a-a500-492e-8704-34d82f1f8404")
-		(property "Reference" "C2"
-			(at 100.33 169.5449 90)
+		(uuid "b6eda23a-ce96-410f-8b67-94e4dc816a88")
+		(property "Reference" "U4"
+			(at 122.936 137.414 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
 			)
 		)
-		(property "Value" "CGA3E2X7R1H104K080AA"
-			(at 109.22 171.45 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "AVR-KiCAD-Lib-Capacitors:C0603"
-			(at 104.14 165.1 0)
+		(property "Value" "TXS0108EPWR"
+			(at 132.08 109.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3912,8 +4911,8 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://product.tdk.com/info/en/catalog/datasheets/mlcc_automotive_general_en.pdf"
-			(at 106.68 167.64 0)
+		(property "Footprint" "AVR-KiCAD-Lib-ICs:SOP65P640X120-20N"
+			(at 125.73 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3921,8 +4920,8 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "0.1µF ±10% 50V Ceramic Capacitor X7R 0603 (1608 Metric)"
-			(at 172.72 233.68 0)
+		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/txs0108e.pdf?ts=1711044790815"
+			(at 128.27 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3930,8 +4929,8 @@
 				(hide yes)
 			)
 		)
-		(property "Cost QTY: 1" "0.11000"
-			(at 110.49 172.72 0)
+		(property "Description" "Voltage Level Translator Bidirectional 1 Circuit 8 Channel 60Mbps 20-TSSOP"
+			(at 191.77 45.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3939,8 +4938,8 @@
 				(hide yes)
 			)
 		)
-		(property "Cost QTY: 1000" "0.01972"
-			(at 113.03 175.26 0)
+		(property "Cost QTY: 1" "1.50000"
+			(at 133.35 105.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3948,8 +4947,17 @@
 				(hide yes)
 			)
 		)
-		(property "Cost QTY: 2500" "*"
-			(at 115.57 177.8 0)
+		(property "Cost QTY: 1000" "0.73518"
+			(at 135.89 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Cost QTY: 2500" "0.68448"
+			(at 138.43 100.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3958,7 +4966,7 @@
 			)
 		)
 		(property "Cost QTY: 5000" "*"
-			(at 118.11 180.34 0)
+			(at 140.97 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3966,8 +4974,8 @@
 				(hide yes)
 			)
 		)
-		(property "Cost QTY: 10000" "*"
-			(at 120.65 182.88 0)
+		(property "Cost QTY: 10000" "0.63378"
+			(at 143.51 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3975,8 +4983,8 @@
 				(hide yes)
 			)
 		)
-		(property "MFR" "TDK Corporation"
-			(at 123.19 185.42 0)
+		(property "MFR" "*"
+			(at 146.05 92.71 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3984,8 +4992,8 @@
 				(hide yes)
 			)
 		)
-		(property "MFR#" "CGA3E2X7R1H104K080AA"
-			(at 125.73 187.96 0)
+		(property "MFR#" "TXS0108EPWR"
+			(at 148.59 90.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3994,7 +5002,7 @@
 			)
 		)
 		(property "Vendor" "Digikey"
-			(at 128.27 190.5 0)
+			(at 151.13 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4002,8 +5010,8 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor #" "445-5666-1-ND"
-			(at 130.81 193.04 0)
+		(property "Vendor #" "296-23011-2-ND"
+			(at 153.67 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4011,8 +5019,8 @@
 				(hide yes)
 			)
 		)
-		(property "Designer" "AVR"
-			(at 133.35 195.58 0)
+		(property "Designer" "Adam Vadala-Roth"
+			(at 156.21 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4020,8 +5028,8 @@
 				(hide yes)
 			)
 		)
-		(property "Height" "0.9mm"
-			(at 135.89 198.12 0)
+		(property "Height" "1.2mm"
+			(at 158.75 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4029,8 +5037,8 @@
 				(hide yes)
 			)
 		)
-		(property "Date Created" "6/17/2020"
-			(at 163.83 226.06 0)
+		(property "Date Created" "3/21/2024"
+			(at 186.69 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4038,8 +5046,8 @@
 				(hide yes)
 			)
 		)
-		(property "Date Modified" "6/17/2020"
-			(at 138.43 200.66 0)
+		(property "Date Modified" "3/21/2024"
+			(at 161.29 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4048,7 +5056,7 @@
 			)
 		)
 		(property "Lead-Free ?" "Yes"
-			(at 140.97 203.2 0)
+			(at 163.83 74.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4057,7 +5065,7 @@
 			)
 		)
 		(property "RoHS Levels" "1"
-			(at 143.51 205.74 0)
+			(at 166.37 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4066,7 +5074,7 @@
 			)
 		)
 		(property "Mounting" "SMT"
-			(at 146.05 208.28 0)
+			(at 168.91 69.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4074,8 +5082,8 @@
 				(hide yes)
 			)
 		)
-		(property "Pin Count #" "2"
-			(at 148.59 210.82 0)
+		(property "Pin Count #" "20"
+			(at 171.45 67.31 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4084,7 +5092,346 @@
 			)
 		)
 		(property "Status" "Active"
-			(at 151.13 213.36 0)
+			(at 173.99 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Tolerance" "N/A"
+			(at 176.53 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Type" "IC"
+			(at 179.07 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage" "3.3V/5V"
+			(at 181.61 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "TSSOP20"
+			(at 184.15 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "_Value_" "TXS0108EPWR"
+			(at 128.524 185.166 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Management_ID" "*"
+			(at 191.77 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "c92c3b08-0f20-4a87-a116-c477b02289ee")
+		)
+		(pin "7"
+			(uuid "97bdc524-3762-418f-9814-5d57e4df7cbe")
+		)
+		(pin "17"
+			(uuid "a461e207-acb3-45a4-8f69-2eee6b1a0253")
+		)
+		(pin "16"
+			(uuid "ce39e4b6-bef8-4e05-a576-7ee02574192e")
+		)
+		(pin "14"
+			(uuid "eacb0041-b74d-4cf6-b044-c1b18df074a1")
+		)
+		(pin "6"
+			(uuid "1fed7235-e35b-4b3d-b748-025634fbc61c")
+		)
+		(pin "19"
+			(uuid "11b0e349-40fa-4e03-8d57-4b8f30210baa")
+		)
+		(pin "10"
+			(uuid "33cd9a18-b6a7-4e42-97cb-6ffb5b769fd9")
+		)
+		(pin "20"
+			(uuid "6b8614a0-967f-4b66-9dcf-75b5cf9004cb")
+		)
+		(pin "4"
+			(uuid "a0b1618f-7b85-4bb3-b86d-db34fdcd7714")
+		)
+		(pin "9"
+			(uuid "c54cadd5-d851-4f74-a71b-bab91f26da05")
+		)
+		(pin "5"
+			(uuid "f721eb66-9245-4752-adf4-8452a8c3ba34")
+		)
+		(pin "12"
+			(uuid "8bab245a-1e8e-4ab6-88eb-c25716b2627c")
+		)
+		(pin "11"
+			(uuid "d3762dbd-8081-467d-a1c3-4e8de0459bf9")
+		)
+		(pin "13"
+			(uuid "273111ad-66b8-4041-821b-09252df1e07f")
+		)
+		(pin "15"
+			(uuid "36146043-f216-40bd-ae3e-ef78e13ee06e")
+		)
+		(pin "8"
+			(uuid "3ae0ec70-9a6c-4e28-948c-c062a09ec3ca")
+		)
+		(pin "3"
+			(uuid "9797f149-bb4e-486e-9b2c-ded622b04179")
+		)
+		(pin "18"
+			(uuid "89377db1-e6a9-4d56-8341-a30850f72e27")
+		)
+		(pin "1"
+			(uuid "419aa20f-f144-42f1-b201-9077a2c5ac30")
+		)
+		(instances
+			(project "fantoccia_carrier"
+				(path "/faa652bd-d277-4d95-a530-1d3e26469af1/b160e170-6243-47aa-bfc3-8bee352c5578"
+					(reference "U4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "AVR-KiCAD-Lib-Capacitors:CGA3E2X7R1H104K080AA")
+		(at 101.6 127 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "b74efe1a-a500-492e-8704-34d82f1f8404")
+		(property "Reference" "C2"
+			(at 97.79 126.3649 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "CGA3E2X7R1H104K080AA"
+			(at 106.68 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "AVR-KiCAD-Lib-Capacitors:C0603"
+			(at 101.6 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://product.tdk.com/info/en/catalog/datasheets/mlcc_automotive_general_en.pdf"
+			(at 104.14 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "0.1µF ±10% 50V Ceramic Capacitor X7R 0603 (1608 Metric)"
+			(at 170.18 190.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Cost QTY: 1" "0.11000"
+			(at 107.95 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Cost QTY: 1000" "0.01972"
+			(at 110.49 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Cost QTY: 2500" "*"
+			(at 113.03 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Cost QTY: 5000" "*"
+			(at 115.57 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Cost QTY: 10000" "*"
+			(at 118.11 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR" "TDK Corporation"
+			(at 120.65 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR#" "CGA3E2X7R1H104K080AA"
+			(at 123.19 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Vendor" "Digikey"
+			(at 125.73 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Vendor #" "445-5666-1-ND"
+			(at 128.27 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Designer" "AVR"
+			(at 130.81 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Height" "0.9mm"
+			(at 133.35 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Date Created" "6/17/2020"
+			(at 161.29 182.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Date Modified" "6/17/2020"
+			(at 135.89 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Lead-Free ?" "Yes"
+			(at 138.43 160.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "RoHS Levels" "1"
+			(at 140.97 162.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mounting" "SMT"
+			(at 143.51 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Pin Count #" "2"
+			(at 146.05 167.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Status" "Active"
+			(at 148.59 170.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4093,7 +5440,7 @@
 			)
 		)
 		(property "Tolerance" "10%"
-			(at 153.67 215.9 0)
+			(at 151.13 172.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4102,7 +5449,7 @@
 			)
 		)
 		(property "Type" "Capacitor"
-			(at 156.21 218.44 0)
+			(at 153.67 175.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4111,7 +5458,7 @@
 			)
 		)
 		(property "Voltage" "50V"
-			(at 158.75 220.98 0)
+			(at 156.21 177.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4120,7 +5467,7 @@
 			)
 		)
 		(property "Package" "0603"
-			(at 162.56 223.52 0)
+			(at 160.02 180.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4129,7 +5476,7 @@
 			)
 		)
 		(property "_Value_" "0.1uF"
-			(at 100.33 172.0849 90)
+			(at 97.79 128.9049 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4138,7 +5485,7 @@
 			)
 		)
 		(property "Management_ID" "*"
-			(at 170.18 231.14 0)
+			(at 167.64 187.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4162,8 +5509,294 @@
 		)
 	)
 	(symbol
+		(lib_id "AVR-KiCAD-Lib-Capacitors:CGA3E2X7R1H104K080AA")
+		(at 101.6 176.53 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "bcca0865-5c43-4dd4-86d4-d987aba895f3")
+		(property "Reference" "C5"
+			(at 97.79 175.8949 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "CGA3E2X7R1H104K080AA"
+			(at 106.68 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "AVR-KiCAD-Lib-Capacitors:C0603"
+			(at 101.6 171.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://product.tdk.com/info/en/catalog/datasheets/mlcc_automotive_general_en.pdf"
+			(at 104.14 173.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "0.1µF ±10% 50V Ceramic Capacitor X7R 0603 (1608 Metric)"
+			(at 170.18 240.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Cost QTY: 1" "0.11000"
+			(at 107.95 179.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Cost QTY: 1000" "0.01972"
+			(at 110.49 181.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Cost QTY: 2500" "*"
+			(at 113.03 184.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Cost QTY: 5000" "*"
+			(at 115.57 186.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Cost QTY: 10000" "*"
+			(at 118.11 189.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR" "TDK Corporation"
+			(at 120.65 191.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR#" "CGA3E2X7R1H104K080AA"
+			(at 123.19 194.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Vendor" "Digikey"
+			(at 125.73 196.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Vendor #" "445-5666-1-ND"
+			(at 128.27 199.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Designer" "AVR"
+			(at 130.81 201.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Height" "0.9mm"
+			(at 133.35 204.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Date Created" "6/17/2020"
+			(at 161.29 232.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Date Modified" "6/17/2020"
+			(at 135.89 207.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Lead-Free ?" "Yes"
+			(at 138.43 209.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "RoHS Levels" "1"
+			(at 140.97 212.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mounting" "SMT"
+			(at 143.51 214.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Pin Count #" "2"
+			(at 146.05 217.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Status" "Active"
+			(at 148.59 219.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Tolerance" "10%"
+			(at 151.13 222.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Type" "Capacitor"
+			(at 153.67 224.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage" "50V"
+			(at 156.21 227.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "0603"
+			(at 160.02 229.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "_Value_" "0.1uF"
+			(at 97.79 178.4349 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Management_ID" "*"
+			(at 167.64 237.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "d8be3ad0-17ed-46f4-be84-4e25e8a340f2")
+		)
+		(pin "1"
+			(uuid "b91cdfae-118b-4565-924a-139bfb6e9adc")
+		)
+		(instances
+			(project "fantoccia_carrier"
+				(path "/faa652bd-d277-4d95-a530-1d3e26469af1/b160e170-6243-47aa-bfc3-8bee352c5578"
+					(reference "C5")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
-		(at 142.24 101.6 0)
+		(at 139.7 83.82 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4172,7 +5805,7 @@
 		(fields_autoplaced yes)
 		(uuid "bea0db10-edc8-46f0-bca1-d0282e4c6c5e")
 		(property "Reference" "#PWR07"
-			(at 142.24 107.95 0)
+			(at 139.7 90.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4181,7 +5814,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 142.24 106.68 0)
+			(at 139.7 88.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4189,7 +5822,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 142.24 101.6 0)
+			(at 139.7 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4198,7 +5831,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 142.24 101.6 0)
+			(at 139.7 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4207,7 +5840,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 142.24 101.6 0)
+			(at 139.7 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4229,7 +5862,7 @@
 	)
 	(symbol
 		(lib_id "AVR-KiCAD-Lib-Capacitors:CGA3E2X7R1H104K080AA")
-		(at 154.94 95.25 270)
+		(at 152.4 77.47 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4238,7 +5871,7 @@
 		(fields_autoplaced yes)
 		(uuid "c7705a54-a891-4a99-aca3-11f66a20d0e0")
 		(property "Reference" "C3"
-			(at 151.13 94.6149 90)
+			(at 148.59 76.8349 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4247,7 +5880,7 @@
 			)
 		)
 		(property "Value" "CGA3E2X7R1H104K080AA"
-			(at 160.02 96.52 0)
+			(at 157.48 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4256,7 +5889,7 @@
 			)
 		)
 		(property "Footprint" "AVR-KiCAD-Lib-Capacitors:C0603"
-			(at 154.94 90.17 0)
+			(at 152.4 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4265,7 +5898,7 @@
 			)
 		)
 		(property "Datasheet" "https://product.tdk.com/info/en/catalog/datasheets/mlcc_automotive_general_en.pdf"
-			(at 157.48 92.71 0)
+			(at 154.94 74.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4274,7 +5907,7 @@
 			)
 		)
 		(property "Description" "0.1µF ±10% 50V Ceramic Capacitor X7R 0603 (1608 Metric)"
-			(at 223.52 158.75 0)
+			(at 220.98 140.97 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4283,7 +5916,7 @@
 			)
 		)
 		(property "Cost QTY: 1" "0.11000"
-			(at 161.29 97.79 0)
+			(at 158.75 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4292,7 +5925,7 @@
 			)
 		)
 		(property "Cost QTY: 1000" "0.01972"
-			(at 163.83 100.33 0)
+			(at 161.29 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4301,7 +5934,7 @@
 			)
 		)
 		(property "Cost QTY: 2500" "*"
-			(at 166.37 102.87 0)
+			(at 163.83 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4310,7 +5943,7 @@
 			)
 		)
 		(property "Cost QTY: 5000" "*"
-			(at 168.91 105.41 0)
+			(at 166.37 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4319,7 +5952,7 @@
 			)
 		)
 		(property "Cost QTY: 10000" "*"
-			(at 171.45 107.95 0)
+			(at 168.91 90.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4328,7 +5961,7 @@
 			)
 		)
 		(property "MFR" "TDK Corporation"
-			(at 173.99 110.49 0)
+			(at 171.45 92.71 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4337,7 +5970,7 @@
 			)
 		)
 		(property "MFR#" "CGA3E2X7R1H104K080AA"
-			(at 176.53 113.03 0)
+			(at 173.99 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4346,7 +5979,7 @@
 			)
 		)
 		(property "Vendor" "Digikey"
-			(at 179.07 115.57 0)
+			(at 176.53 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4355,7 +5988,7 @@
 			)
 		)
 		(property "Vendor #" "445-5666-1-ND"
-			(at 181.61 118.11 0)
+			(at 179.07 100.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4364,7 +5997,7 @@
 			)
 		)
 		(property "Designer" "AVR"
-			(at 184.15 120.65 0)
+			(at 181.61 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4373,7 +6006,7 @@
 			)
 		)
 		(property "Height" "0.9mm"
-			(at 186.69 123.19 0)
+			(at 184.15 105.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4382,7 +6015,7 @@
 			)
 		)
 		(property "Date Created" "6/17/2020"
-			(at 214.63 151.13 0)
+			(at 212.09 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4391,7 +6024,7 @@
 			)
 		)
 		(property "Date Modified" "6/17/2020"
-			(at 189.23 125.73 0)
+			(at 186.69 107.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4400,7 +6033,7 @@
 			)
 		)
 		(property "Lead-Free ?" "Yes"
-			(at 191.77 128.27 0)
+			(at 189.23 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4409,7 +6042,7 @@
 			)
 		)
 		(property "RoHS Levels" "1"
-			(at 194.31 130.81 0)
+			(at 191.77 113.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4418,7 +6051,7 @@
 			)
 		)
 		(property "Mounting" "SMT"
-			(at 196.85 133.35 0)
+			(at 194.31 115.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4427,7 +6060,7 @@
 			)
 		)
 		(property "Pin Count #" "2"
-			(at 199.39 135.89 0)
+			(at 196.85 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4436,7 +6069,7 @@
 			)
 		)
 		(property "Status" "Active"
-			(at 201.93 138.43 0)
+			(at 199.39 120.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4445,7 +6078,7 @@
 			)
 		)
 		(property "Tolerance" "10%"
-			(at 204.47 140.97 0)
+			(at 201.93 123.19 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4454,7 +6087,7 @@
 			)
 		)
 		(property "Type" "Capacitor"
-			(at 207.01 143.51 0)
+			(at 204.47 125.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4463,7 +6096,7 @@
 			)
 		)
 		(property "Voltage" "50V"
-			(at 209.55 146.05 0)
+			(at 207.01 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4472,7 +6105,7 @@
 			)
 		)
 		(property "Package" "0603"
-			(at 213.36 148.59 0)
+			(at 210.82 130.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4481,7 +6114,7 @@
 			)
 		)
 		(property "_Value_" "0.1uF"
-			(at 151.13 97.1549 90)
+			(at 148.59 79.3749 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4490,7 +6123,7 @@
 			)
 		)
 		(property "Management_ID" "*"
-			(at 220.98 156.21 0)
+			(at 218.44 138.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4515,7 +6148,7 @@
 	)
 	(symbol
 		(lib_id "power:+3.3V")
-		(at 104.14 90.17 0)
+		(at 101.6 72.39 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4524,7 +6157,7 @@
 		(fields_autoplaced yes)
 		(uuid "f78d4b23-fda7-468c-aa6d-4d75f4182e2d")
 		(property "Reference" "#PWR04"
-			(at 104.14 93.98 0)
+			(at 101.6 76.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4533,7 +6166,7 @@
 			)
 		)
 		(property "Value" "+3.3V"
-			(at 104.14 85.09 0)
+			(at 101.6 67.31 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4541,7 +6174,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 104.14 90.17 0)
+			(at 101.6 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4550,7 +6183,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 104.14 90.17 0)
+			(at 101.6 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4559,7 +6192,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
-			(at 104.14 90.17 0)
+			(at 101.6 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)

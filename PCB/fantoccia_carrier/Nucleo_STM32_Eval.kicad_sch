@@ -347,6 +347,397 @@
 				)
 			)
 		)
+		(symbol "AVR-KiCAD-Lib-Diodes:LTST-C194TBKT"
+			(pin_names
+				(offset 1.016)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "D"
+				(at -2.54 2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "LTST-C194TBKT"
+				(at 1.27 5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Footprint" "AVR-KiCAD-Lib-Diodes:LED0603"
+				(at -1.27 -3.81 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "http://optoelectronics.liteon.com/upload/download/DS22-2010-0025/LTST-C194TBKT.PDF"
+				(at -2.54 2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Blue 468nm LED Indication - Discrete 3.3V 0603 (1608 Metric)"
+				(at 60.96 66.04 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Cost QTY: 1" "0.42000"
+				(at 2.54 6.35 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Cost QTY: 1000" "0.07797"
+				(at 5.08 8.89 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Cost QTY: 2500" "*"
+				(at 7.62 11.43 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Cost QTY: 5000" "0.06102"
+				(at 10.16 13.97 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Cost QTY: 10000" "0.05424"
+				(at 12.7 16.51 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "MFR" "Lite-On Inc."
+				(at 15.24 19.05 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "MFR#" "LTST-C194TBKT"
+				(at 17.78 21.59 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Vendor" "Digikey"
+				(at 20.32 24.13 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Vendor #" "160-1837-2-ND"
+				(at 22.86 26.67 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Designer" "AVR"
+				(at 25.4 29.21 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Height" "0.45mm"
+				(at 27.94 31.75 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Date Created" "3/1/2020"
+				(at 55.88 59.69 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Date Modified" "3/1/2020"
+				(at 30.48 34.29 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Lead-Free ?" "Yes"
+				(at 33.02 36.83 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "RoHS Levels" "1"
+				(at 35.56 39.37 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Mounting" "SMT"
+				(at 38.1 41.91 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Pin Count #" "2"
+				(at 40.64 44.45 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Status" "Active"
+				(at 43.18 46.99 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Tolerance" "*"
+				(at 45.72 49.53 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Type" "Blue LED Colorless"
+				(at 48.26 52.07 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Voltage" "3.3V"
+				(at 50.8 54.61 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Package" "0603"
+				(at 53.34 58.42 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "_Value_" "Blue LED"
+				(at 58.42 63.5 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Management_ID" "*"
+				(at 60.96 66.04 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "LTST-C194TBKT_0_1"
+				(polyline
+					(pts
+						(xy -0.635 1.27) (xy 0.635 2.54)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.635 2.54) (xy 0 2.54)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.635 2.54) (xy 0.635 1.905)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 -1.27) (xy 1.27 1.27)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.905 2.54) (xy 1.905 1.905)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.635 1.27) (xy 1.905 2.54) (xy 1.27 2.54)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.27 1.27) (xy -1.27 -1.27) (xy 1.27 0) (xy -1.27 1.27)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "LTST-C194TBKT_1_1"
+				(pin passive line
+					(at -6.35 0 0)
+					(length 5.08)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 6.35 0 180)
+					(length 5.08)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
 		(symbol "AVR-KiCAD-Lib-Inductors:HZ0805E601R-10"
 			(pin_names
 				(offset 1.016)
@@ -731,6 +1122,371 @@
 				(pin input line
 					(at 10.16 0 180)
 					(length 5.08)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
+		(symbol "AVR-KiCAD-Lib-Resistors:RC0603FR-072K2L"
+			(pin_names
+				(offset 1.016)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "R"
+				(at -2.54 2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "RC0603FR-072K2L"
+				(at 1.27 5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" "AVR-KiCAD-Lib-Resistors:R0603"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://www.yageo.com/upload/media/product/products/datasheet/rchip/PYu-RC_Group_51_RoHS_L_12.pdf"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "2.2 kOhms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Moisture Resistant Thick Film"
+				(at 60.96 66.04 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Cost QTY: 1" "0.10000"
+				(at 2.54 6.35 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Cost QTY: 1000" "0.00532"
+				(at 5.08 8.89 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Cost QTY: 2500" "*"
+				(at 7.62 11.43 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Cost QTY: 5000" "0.00382"
+				(at 10.16 13.97 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Cost QTY: 10000" "0.00335"
+				(at 12.7 16.51 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "MFR" "YAGEO"
+				(at 15.24 19.05 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "MFR#" "RC0603FR-072K2L"
+				(at 17.78 21.59 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Vendor" "Digikey"
+				(at 20.32 24.13 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Vendor #" "311-2.20KHRTR-ND"
+				(at 22.86 26.67 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Designer" "Adam Vadala-Roth"
+				(at 25.4 29.21 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Height" "0.55mm"
+				(at 27.94 31.75 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Date Created" "3/8/2024"
+				(at 55.88 59.69 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Date Modified" "3/8/2024"
+				(at 30.48 34.29 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Lead-Free ?" "Yes"
+				(at 33.02 36.83 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "RoHS Levels" "1"
+				(at 35.56 39.37 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Mounting" "SMT"
+				(at 38.1 41.91 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Pin Count #" "2"
+				(at 40.64 44.45 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Status" "Active"
+				(at 43.18 46.99 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Tolerance" "1%"
+				(at 45.72 49.53 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Type" "Resistor "
+				(at 48.26 52.07 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Voltage" "N/A"
+				(at 50.8 54.61 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Package" "0603"
+				(at 53.34 58.42 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "_Value_" "2.2K"
+				(at 58.42 63.5 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Management_ID" "*"
+				(at 60.96 66.04 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "RC0603FR-072K2L_0_1"
+				(rectangle
+					(start -1.905 0.635)
+					(end 1.905 -0.635)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -2.54 0) (xy -1.905 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.905 0) (xy -1.905 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.905 0) (xy 1.905 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 2.54 0) (xy 1.905 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "RC0603FR-072K2L_1_1"
+				(pin passive line
+					(at -5.08 0 0)
+					(length 2.5146)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 5.08 0 180)
+					(length 2.5146)
 					(name "~"
 						(effects
 							(font
@@ -3576,6 +4332,12 @@
 		(uuid "4afd7dd5-bdb8-48c2-a3a9-c0987155e6e4")
 	)
 	(junction
+		(at 63.5 185.42)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "5596a340-3ab0-4c51-9c50-0173b23f7ddc")
+	)
+	(junction
 		(at 242.57 102.87)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3586,6 +4348,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "8c671be4-bd14-42b0-9c76-ccdef9dc33ad")
+	)
+	(junction
+		(at 63.5 180.34)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "90211059-30bc-44a5-aa78-85a151598e1a")
 	)
 	(junction
 		(at 242.57 85.09)
@@ -3604,6 +4372,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "b82aeca8-5ba0-4b3e-8c96-a098626202b3")
+	)
+	(junction
+		(at 63.5 190.5)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "e400304e-cf55-47d2-8398-df5f1a05b965")
 	)
 	(wire
 		(pts
@@ -3624,6 +4398,26 @@
 			(type default)
 		)
 		(uuid "0e1bb2e2-467e-4f5c-8811-a9c5edbd89fc")
+	)
+	(wire
+		(pts
+			(xy 45.72 180.34) (xy 48.26 180.34)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "10fa61ec-6e3b-49f2-8453-934fcfa3c0ba")
+	)
+	(wire
+		(pts
+			(xy 60.96 180.34) (xy 63.5 180.34)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "11b95ef7-8ecd-4bfc-b3ca-feaeadbbcb2d")
 	)
 	(wire
 		(pts
@@ -3657,6 +4451,26 @@
 	)
 	(wire
 		(pts
+			(xy 45.72 185.42) (xy 48.26 185.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3c96ed20-479e-4c6e-90b4-ec73a5fd99a0")
+	)
+	(wire
+		(pts
+			(xy 60.96 190.5) (xy 63.5 190.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "40a3faa4-4aa9-4928-a147-face29a71063")
+	)
+	(wire
+		(pts
 			(xy 242.57 107.95) (xy 242.57 114.3)
 		)
 		(stroke
@@ -3664,6 +4478,16 @@
 			(type default)
 		)
 		(uuid "5e60fcc3-62bd-4478-9fc9-de5e2455a68e")
+	)
+	(wire
+		(pts
+			(xy 63.5 185.42) (xy 63.5 190.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "60718ed6-1dc5-4252-b2f0-a2dfb3156142")
 	)
 	(wire
 		(pts
@@ -3697,6 +4521,26 @@
 	)
 	(wire
 		(pts
+			(xy 63.5 180.34) (xy 63.5 185.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "899250cd-ffac-4df0-858a-243df408e6f1")
+	)
+	(wire
+		(pts
+			(xy 63.5 175.26) (xy 63.5 180.34)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "90cfc8c7-4f38-4a75-a2e8-2bb1aadaf2bc")
+	)
+	(wire
+		(pts
 			(xy 242.57 72.39) (xy 242.57 74.93)
 		)
 		(stroke
@@ -3704,6 +4548,26 @@
 			(type default)
 		)
 		(uuid "95733a9e-584a-48fe-8985-0097782f0de4")
+	)
+	(wire
+		(pts
+			(xy 60.96 185.42) (xy 63.5 185.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "991b69a3-f82e-49b7-86ff-5cd1ae1b319c")
+	)
+	(wire
+		(pts
+			(xy 60.96 175.26) (xy 63.5 175.26)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a0ac87df-5f0c-47e7-9363-cbf9cad7a742")
 	)
 	(wire
 		(pts
@@ -3744,6 +4608,26 @@
 			(type default)
 		)
 		(uuid "d6e24f19-786c-4a94-92e7-014f1d3decc2")
+	)
+	(wire
+		(pts
+			(xy 45.72 175.26) (xy 48.26 175.26)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d74224d0-6ae2-4177-8b67-6162187cd5d7")
+	)
+	(wire
+		(pts
+			(xy 45.72 190.5) (xy 48.26 190.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "df75f0c0-2d3c-4845-b6c1-3334792929b1")
 	)
 	(wire
 		(pts
@@ -3795,9 +4679,21 @@
 		)
 		(uuid "feda0fee-1cd9-4427-bacb-4fb40446354b")
 	)
+	(hierarchical_label "CV_GPIO16"
+		(shape input)
+		(at 279.4 127 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "0307d9b3-3b3f-46f7-a9f0-af62c246cac1")
+	)
 	(hierarchical_label "3.3V_GPIO3"
 		(shape input)
-		(at 54.61 153.67 270)
+		(at 97.79 152.4 270)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3809,7 +4705,7 @@
 	)
 	(hierarchical_label "3.3V_GPIO4"
 		(shape input)
-		(at 57.15 153.67 270)
+		(at 100.33 152.4 270)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3821,7 +4717,7 @@
 	)
 	(hierarchical_label "CV_GPIO9"
 		(shape input)
-		(at 279.4 129.54 180)
+		(at 279.4 91.44 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3845,7 +4741,7 @@
 	)
 	(hierarchical_label "3.3V_GPIO7"
 		(shape input)
-		(at 64.77 153.67 270)
+		(at 107.95 152.4 270)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3857,7 +4753,7 @@
 	)
 	(hierarchical_label "3.3V_GPIO2"
 		(shape input)
-		(at 52.07 153.67 270)
+		(at 95.25 152.4 270)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3867,9 +4763,45 @@
 		)
 		(uuid "35e8f95a-a331-4f04-a1cb-0cc882c48a89")
 	)
+	(hierarchical_label "CV_GPIO21"
+		(shape input)
+		(at 279.4 139.7 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "3bd1a19c-7b9b-485a-b7b6-21318bb97617")
+	)
+	(hierarchical_label "CV_GPIO20"
+		(shape input)
+		(at 279.4 137.16 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "3d968eae-1f15-4aca-9412-79ea7fecf3b5")
+	)
+	(hierarchical_label "CV_GPIO19"
+		(shape input)
+		(at 279.4 134.62 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "3fef9799-c3fb-4315-a861-26719dc38e70")
+	)
 	(hierarchical_label "3.3V_GPIO1"
 		(shape input)
-		(at 49.53 153.67 270)
+		(at 92.71 152.4 270)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3881,7 +4813,7 @@
 	)
 	(hierarchical_label "3.3V_GPIO15"
 		(shape input)
-		(at 139.7 152.4 270)
+		(at 146.05 152.4 270)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3905,7 +4837,7 @@
 	)
 	(hierarchical_label "3.3V_GPIO9"
 		(shape input)
-		(at 124.46 152.4 270)
+		(at 130.81 152.4 270)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3917,7 +4849,7 @@
 	)
 	(hierarchical_label "CV_GPIO8"
 		(shape input)
-		(at 279.4 127 180)
+		(at 279.4 88.9 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3929,7 +4861,7 @@
 	)
 	(hierarchical_label "3.3V_GPIO14"
 		(shape input)
-		(at 137.16 152.4 270)
+		(at 143.51 152.4 270)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3941,7 +4873,7 @@
 	)
 	(hierarchical_label "3.3V_GPIO10"
 		(shape input)
-		(at 127 152.4 270)
+		(at 133.35 152.4 270)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3953,7 +4885,7 @@
 	)
 	(hierarchical_label "3.3V_GPIO12"
 		(shape input)
-		(at 132.08 152.4 270)
+		(at 138.43 152.4 270)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3965,7 +4897,7 @@
 	)
 	(hierarchical_label "3.3V_GPIO6"
 		(shape input)
-		(at 62.23 153.67 270)
+		(at 105.41 152.4 270)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3975,9 +4907,33 @@
 		)
 		(uuid "72aa85b5-8322-4df5-b085-701574d76cf3")
 	)
+	(hierarchical_label "CV_GPIO17"
+		(shape input)
+		(at 279.4 129.54 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "74f40ebd-f7e2-4e46-a19d-206c423f9e43")
+	)
+	(hierarchical_label "CV_GPIO18"
+		(shape input)
+		(at 279.4 132.08 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "780e4b17-7520-440a-97c3-eb824467fa3d")
+	)
 	(hierarchical_label "3.3V_GPIO0"
 		(shape input)
-		(at 46.99 153.67 270)
+		(at 90.17 152.4 270)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4001,7 +4957,7 @@
 	)
 	(hierarchical_label "3.3V_GPIO5"
 		(shape input)
-		(at 59.69 153.67 270)
+		(at 102.87 152.4 270)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4025,7 +4981,7 @@
 	)
 	(hierarchical_label "3.3V_GPIO11"
 		(shape input)
-		(at 129.54 152.4 270)
+		(at 135.89 152.4 270)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4037,7 +4993,7 @@
 	)
 	(hierarchical_label "CV_GPIO15"
 		(shape input)
-		(at 279.4 144.78 180)
+		(at 279.4 106.68 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4049,7 +5005,7 @@
 	)
 	(hierarchical_label "CV_GPIO12"
 		(shape input)
-		(at 279.4 137.16 180)
+		(at 279.4 99.06 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4061,7 +5017,7 @@
 	)
 	(hierarchical_label "CV_GPIO14"
 		(shape input)
-		(at 279.4 142.24 180)
+		(at 279.4 104.14 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4073,7 +5029,7 @@
 	)
 	(hierarchical_label "CV_GPIO10"
 		(shape input)
-		(at 279.4 132.08 180)
+		(at 279.4 93.98 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4085,7 +5041,7 @@
 	)
 	(hierarchical_label "CV_GPIO11"
 		(shape input)
-		(at 279.4 134.62 180)
+		(at 279.4 96.52 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4097,7 +5053,7 @@
 	)
 	(hierarchical_label "3.3V_GPIO8"
 		(shape input)
-		(at 121.92 152.4 270)
+		(at 128.27 152.4 270)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4106,6 +5062,18 @@
 			(justify right)
 		)
 		(uuid "b8f8aff3-efcf-40c7-b9e1-d2800946d0a1")
+	)
+	(hierarchical_label "CV_GPIO22"
+		(shape input)
+		(at 279.4 142.24 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "c786adcd-67d6-43c4-9121-772c805b1fdf")
 	)
 	(hierarchical_label "CV_GPIO1"
 		(shape input)
@@ -4133,7 +5101,7 @@
 	)
 	(hierarchical_label "CV_GPIO13"
 		(shape input)
-		(at 279.4 139.7 180)
+		(at 279.4 101.6 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4169,7 +5137,7 @@
 	)
 	(hierarchical_label "3.3V_GPIO13"
 		(shape input)
-		(at 134.62 152.4 270)
+		(at 140.97 152.4 270)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4178,6 +5146,18 @@
 			(justify right)
 		)
 		(uuid "f0f47f52-a841-481a-a40e-de4404544c92")
+	)
+	(hierarchical_label "CV_GPIO23"
+		(shape input)
+		(at 279.4 144.78 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "fad67229-68af-491e-9209-783747581113")
 	)
 	(symbol
 		(lib_id "power:GND")
@@ -4240,6 +5220,355 @@
 			(project "fantoccia_carrier"
 				(path "/faa652bd-d277-4d95-a530-1d3e26469af1/fb1a902e-3cde-446f-93e4-8f03e3bf91e4"
 					(reference "#PWR01")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 63.5 190.5 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "0856fe4e-0236-431c-9e23-1eccf7bdff68")
+		(property "Reference" "#PWR021"
+			(at 63.5 196.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 63.5 195.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 63.5 190.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 63.5 190.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 63.5 190.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "67fc5b7b-dffe-4e1d-8141-c90a169ddf8f")
+		)
+		(instances
+			(project "fantoccia_carrier"
+				(path "/faa652bd-d277-4d95-a530-1d3e26469af1/fb1a902e-3cde-446f-93e4-8f03e3bf91e4"
+					(reference "#PWR021")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "AVR-KiCAD-Lib-Diodes:LTST-C194TBKT")
+		(at 54.61 190.5 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "0a8deb1e-a416-4c10-85c6-2d071368df93")
+		(property "Reference" "D4"
+			(at 61.214 189.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "LTST-C194TBKT"
+			(at 55.88 185.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "AVR-KiCAD-Lib-Diodes:LED0603"
+			(at 53.34 194.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "http://optoelectronics.liteon.com/upload/download/DS22-2010-0025/LTST-C194TBKT.PDF"
+			(at 52.07 187.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Blue 468nm LED Indication - Discrete 3.3V 0603 (1608 Metric)"
+			(at 115.57 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Cost QTY: 1" "0.42000"
+			(at 57.15 184.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Cost QTY: 1000" "0.07797"
+			(at 59.69 181.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Cost QTY: 2500" "*"
+			(at 62.23 179.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Cost QTY: 5000" "0.06102"
+			(at 64.77 176.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Cost QTY: 10000" "0.05424"
+			(at 67.31 173.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR" "Lite-On Inc."
+			(at 69.85 171.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR#" "LTST-C194TBKT"
+			(at 72.39 168.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Vendor" "Digikey"
+			(at 74.93 166.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Vendor #" "160-1837-2-ND"
+			(at 77.47 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Designer" "AVR"
+			(at 80.01 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Height" "0.45mm"
+			(at 82.55 158.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Date Created" "3/1/2020"
+			(at 110.49 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Date Modified" "3/1/2020"
+			(at 85.09 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Lead-Free ?" "Yes"
+			(at 87.63 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "RoHS Levels" "1"
+			(at 90.17 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mounting" "SMT"
+			(at 92.71 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Pin Count #" "2"
+			(at 95.25 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Status" "Active"
+			(at 97.79 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Tolerance" "*"
+			(at 100.33 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Type" "Blue LED Colorless"
+			(at 102.87 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage" "3.3V"
+			(at 105.41 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "0603"
+			(at 107.95 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "_Value_" "Blue LED"
+			(at 68.834 189.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Management_ID" "*"
+			(at 115.57 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "6e5606cf-17b5-4f0e-9280-175c9343f1ca")
+		)
+		(pin "2"
+			(uuid "394eb7d4-81c0-4fd4-8a26-3b6b233c4111")
+		)
+		(instances
+			(project "fantoccia_carrier"
+				(path "/faa652bd-d277-4d95-a530-1d3e26469af1/fb1a902e-3cde-446f-93e4-8f03e3bf91e4"
+					(reference "D4")
 					(unit 1)
 				)
 			)
@@ -4312,6 +5641,289 @@
 		)
 	)
 	(symbol
+		(lib_id "AVR-KiCAD-Lib-Diodes:LTST-C194TBKT")
+		(at 54.61 175.26 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "13908679-29a2-4c80-a130-78127391ecfa")
+		(property "Reference" "D1"
+			(at 61.214 173.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "LTST-C194TBKT"
+			(at 55.88 170.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "AVR-KiCAD-Lib-Diodes:LED0603"
+			(at 53.34 179.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "http://optoelectronics.liteon.com/upload/download/DS22-2010-0025/LTST-C194TBKT.PDF"
+			(at 52.07 172.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Blue 468nm LED Indication - Discrete 3.3V 0603 (1608 Metric)"
+			(at 115.57 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Cost QTY: 1" "0.42000"
+			(at 57.15 168.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Cost QTY: 1000" "0.07797"
+			(at 59.69 166.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Cost QTY: 2500" "*"
+			(at 62.23 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Cost QTY: 5000" "0.06102"
+			(at 64.77 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Cost QTY: 10000" "0.05424"
+			(at 67.31 158.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR" "Lite-On Inc."
+			(at 69.85 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR#" "LTST-C194TBKT"
+			(at 72.39 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Vendor" "Digikey"
+			(at 74.93 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Vendor #" "160-1837-2-ND"
+			(at 77.47 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Designer" "AVR"
+			(at 80.01 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Height" "0.45mm"
+			(at 82.55 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Date Created" "3/1/2020"
+			(at 110.49 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Date Modified" "3/1/2020"
+			(at 85.09 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Lead-Free ?" "Yes"
+			(at 87.63 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "RoHS Levels" "1"
+			(at 90.17 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mounting" "SMT"
+			(at 92.71 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Pin Count #" "2"
+			(at 95.25 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Status" "Active"
+			(at 97.79 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Tolerance" "*"
+			(at 100.33 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Type" "Blue LED Colorless"
+			(at 102.87 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage" "3.3V"
+			(at 105.41 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "0603"
+			(at 107.95 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "_Value_" "Blue LED"
+			(at 68.834 173.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Management_ID" "*"
+			(at 115.57 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "a2dcddee-8cae-43e0-ac24-6d01de180cbc")
+		)
+		(pin "2"
+			(uuid "c94e7f3f-07a5-4ff1-b69c-f7e9afcf46bd")
+		)
+		(instances
+			(project "fantoccia_carrier"
+				(path "/faa652bd-d277-4d95-a530-1d3e26469af1/fb1a902e-3cde-446f-93e4-8f03e3bf91e4"
+					(reference "D1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 242.57 114.3 0)
 		(unit 1)
@@ -4372,6 +5984,572 @@
 			(project "fantoccia_carrier"
 				(path "/faa652bd-d277-4d95-a530-1d3e26469af1/fb1a902e-3cde-446f-93e4-8f03e3bf91e4"
 					(reference "#PWR014")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "AVR-KiCAD-Lib-Diodes:LTST-C194TBKT")
+		(at 54.61 185.42 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "3636eacd-200e-4bf6-9d2f-24025e9ec5ac")
+		(property "Reference" "D3"
+			(at 61.214 184.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "LTST-C194TBKT"
+			(at 55.88 180.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "AVR-KiCAD-Lib-Diodes:LED0603"
+			(at 53.34 189.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "http://optoelectronics.liteon.com/upload/download/DS22-2010-0025/LTST-C194TBKT.PDF"
+			(at 52.07 182.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Blue 468nm LED Indication - Discrete 3.3V 0603 (1608 Metric)"
+			(at 115.57 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Cost QTY: 1" "0.42000"
+			(at 57.15 179.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Cost QTY: 1000" "0.07797"
+			(at 59.69 176.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Cost QTY: 2500" "*"
+			(at 62.23 173.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Cost QTY: 5000" "0.06102"
+			(at 64.77 171.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Cost QTY: 10000" "0.05424"
+			(at 67.31 168.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR" "Lite-On Inc."
+			(at 69.85 166.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR#" "LTST-C194TBKT"
+			(at 72.39 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Vendor" "Digikey"
+			(at 74.93 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Vendor #" "160-1837-2-ND"
+			(at 77.47 158.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Designer" "AVR"
+			(at 80.01 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Height" "0.45mm"
+			(at 82.55 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Date Created" "3/1/2020"
+			(at 110.49 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Date Modified" "3/1/2020"
+			(at 85.09 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Lead-Free ?" "Yes"
+			(at 87.63 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "RoHS Levels" "1"
+			(at 90.17 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mounting" "SMT"
+			(at 92.71 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Pin Count #" "2"
+			(at 95.25 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Status" "Active"
+			(at 97.79 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Tolerance" "*"
+			(at 100.33 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Type" "Blue LED Colorless"
+			(at 102.87 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage" "3.3V"
+			(at 105.41 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "0603"
+			(at 107.95 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "_Value_" "Blue LED"
+			(at 68.834 184.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Management_ID" "*"
+			(at 115.57 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "e82911cc-95de-4965-9007-82fdf4ba2459")
+		)
+		(pin "2"
+			(uuid "2e71ce17-1332-4414-8ace-1de64dfc22bc")
+		)
+		(instances
+			(project "fantoccia_carrier"
+				(path "/faa652bd-d277-4d95-a530-1d3e26469af1/fb1a902e-3cde-446f-93e4-8f03e3bf91e4"
+					(reference "D3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "AVR-KiCAD-Lib-Resistors:RC0603FR-072K2L")
+		(at 40.64 190.5 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "37a5f601-ba6b-4357-bb72-c9bfe307d5d8")
+		(property "Reference" "R4"
+			(at 40.64 188.976 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "RC0603FR-072K2L"
+			(at 40.64 185.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "AVR-KiCAD-Lib-Resistors:R0603"
+			(at 40.64 190.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.yageo.com/upload/media/product/products/datasheet/rchip/PYu-RC_Group_51_RoHS_L_12.pdf"
+			(at 40.64 190.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "2.2 kOhms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Moisture Resistant Thick Film"
+			(at 101.6 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Cost QTY: 1" "0.10000"
+			(at 43.18 184.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Cost QTY: 1000" "0.00532"
+			(at 45.72 181.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Cost QTY: 2500" "*"
+			(at 48.26 179.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Cost QTY: 5000" "0.00382"
+			(at 50.8 176.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Cost QTY: 10000" "0.00335"
+			(at 53.34 173.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR" "YAGEO"
+			(at 55.88 171.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR#" "RC0603FR-072K2L"
+			(at 58.42 168.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Vendor" "Digikey"
+			(at 60.96 166.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Vendor #" "311-2.20KHRTR-ND"
+			(at 63.5 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Designer" "Adam Vadala-Roth"
+			(at 66.04 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Height" "0.55mm"
+			(at 68.58 158.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Date Created" "3/8/2024"
+			(at 96.52 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Date Modified" "3/8/2024"
+			(at 71.12 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Lead-Free ?" "Yes"
+			(at 73.66 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "RoHS Levels" "1"
+			(at 76.2 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mounting" "SMT"
+			(at 78.74 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Pin Count #" "2"
+			(at 81.28 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Status" "Active"
+			(at 83.82 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Tolerance" "1%"
+			(at 86.36 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Type" "Resistor "
+			(at 88.9 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage" "N/A"
+			(at 91.44 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "0603"
+			(at 93.98 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "_Value_" "2.2K"
+			(at 40.64 192.278 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Management_ID" "*"
+			(at 101.6 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "93a3a39e-adf9-4127-b53e-7ddb10e1346f")
+		)
+		(pin "2"
+			(uuid "693aa998-699f-4567-aa6d-d7bc98a0013f")
+		)
+		(instances
+			(project "fantoccia_carrier"
+				(path "/faa652bd-d277-4d95-a530-1d3e26469af1/fb1a902e-3cde-446f-93e4-8f03e3bf91e4"
+					(reference "R4")
 					(unit 1)
 				)
 			)
@@ -4873,6 +7051,289 @@
 		)
 	)
 	(symbol
+		(lib_id "AVR-KiCAD-Lib-Resistors:RC0603FR-072K2L")
+		(at 40.64 180.34 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "4746dc56-fd75-4632-9c96-d0c705acde82")
+		(property "Reference" "R2"
+			(at 40.64 178.816 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "RC0603FR-072K2L"
+			(at 40.64 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "AVR-KiCAD-Lib-Resistors:R0603"
+			(at 40.64 180.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.yageo.com/upload/media/product/products/datasheet/rchip/PYu-RC_Group_51_RoHS_L_12.pdf"
+			(at 40.64 180.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "2.2 kOhms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Moisture Resistant Thick Film"
+			(at 101.6 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Cost QTY: 1" "0.10000"
+			(at 43.18 173.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Cost QTY: 1000" "0.00532"
+			(at 45.72 171.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Cost QTY: 2500" "*"
+			(at 48.26 168.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Cost QTY: 5000" "0.00382"
+			(at 50.8 166.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Cost QTY: 10000" "0.00335"
+			(at 53.34 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR" "YAGEO"
+			(at 55.88 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR#" "RC0603FR-072K2L"
+			(at 58.42 158.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Vendor" "Digikey"
+			(at 60.96 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Vendor #" "311-2.20KHRTR-ND"
+			(at 63.5 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Designer" "Adam Vadala-Roth"
+			(at 66.04 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Height" "0.55mm"
+			(at 68.58 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Date Created" "3/8/2024"
+			(at 96.52 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Date Modified" "3/8/2024"
+			(at 71.12 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Lead-Free ?" "Yes"
+			(at 73.66 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "RoHS Levels" "1"
+			(at 76.2 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mounting" "SMT"
+			(at 78.74 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Pin Count #" "2"
+			(at 81.28 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Status" "Active"
+			(at 83.82 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Tolerance" "1%"
+			(at 86.36 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Type" "Resistor "
+			(at 88.9 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage" "N/A"
+			(at 91.44 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "0603"
+			(at 93.98 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "_Value_" "2.2K"
+			(at 40.64 182.118 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Management_ID" "*"
+			(at 101.6 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "2d202909-6c18-4b9a-96b8-7ae50cea2394")
+		)
+		(pin "2"
+			(uuid "171b814c-e045-448f-b8da-9a0d4f311dd1")
+		)
+		(instances
+			(project "fantoccia_carrier"
+				(path "/faa652bd-d277-4d95-a530-1d3e26469af1/fb1a902e-3cde-446f-93e4-8f03e3bf91e4"
+					(reference "R2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "AVR-KiCAD-Lib-Battery-Holders:BU2450SM-JJ-GTR")
 		(at 21.59 101.6 270)
 		(unit 1)
@@ -5152,6 +7613,855 @@
 			(project "fantoccia_carrier"
 				(path "/faa652bd-d277-4d95-a530-1d3e26469af1/fb1a902e-3cde-446f-93e4-8f03e3bf91e4"
 					(reference "J1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "AVR-KiCAD-Lib-Resistors:RC0603FR-072K2L")
+		(at 40.64 185.42 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "a1bc8a09-0f47-4d4b-aa01-9aec2a02e9de")
+		(property "Reference" "R3"
+			(at 40.64 183.896 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "RC0603FR-072K2L"
+			(at 40.64 180.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "AVR-KiCAD-Lib-Resistors:R0603"
+			(at 40.64 185.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.yageo.com/upload/media/product/products/datasheet/rchip/PYu-RC_Group_51_RoHS_L_12.pdf"
+			(at 40.64 185.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "2.2 kOhms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Moisture Resistant Thick Film"
+			(at 101.6 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Cost QTY: 1" "0.10000"
+			(at 43.18 179.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Cost QTY: 1000" "0.00532"
+			(at 45.72 176.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Cost QTY: 2500" "*"
+			(at 48.26 173.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Cost QTY: 5000" "0.00382"
+			(at 50.8 171.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Cost QTY: 10000" "0.00335"
+			(at 53.34 168.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR" "YAGEO"
+			(at 55.88 166.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR#" "RC0603FR-072K2L"
+			(at 58.42 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Vendor" "Digikey"
+			(at 60.96 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Vendor #" "311-2.20KHRTR-ND"
+			(at 63.5 158.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Designer" "Adam Vadala-Roth"
+			(at 66.04 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Height" "0.55mm"
+			(at 68.58 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Date Created" "3/8/2024"
+			(at 96.52 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Date Modified" "3/8/2024"
+			(at 71.12 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Lead-Free ?" "Yes"
+			(at 73.66 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "RoHS Levels" "1"
+			(at 76.2 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mounting" "SMT"
+			(at 78.74 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Pin Count #" "2"
+			(at 81.28 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Status" "Active"
+			(at 83.82 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Tolerance" "1%"
+			(at 86.36 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Type" "Resistor "
+			(at 88.9 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage" "N/A"
+			(at 91.44 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "0603"
+			(at 93.98 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "_Value_" "2.2K"
+			(at 40.64 187.198 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Management_ID" "*"
+			(at 101.6 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "6d9ffd1c-e8d5-4f19-97c1-b1715a135a7a")
+		)
+		(pin "2"
+			(uuid "27f22fd8-01b4-4341-bb9a-bfe18392eb61")
+		)
+		(instances
+			(project "fantoccia_carrier"
+				(path "/faa652bd-d277-4d95-a530-1d3e26469af1/fb1a902e-3cde-446f-93e4-8f03e3bf91e4"
+					(reference "R3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "AVR-KiCAD-Lib-Diodes:LTST-C194TBKT")
+		(at 54.61 180.34 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "a36a15a4-e424-4941-8a8a-e4f73820c62b")
+		(property "Reference" "D2"
+			(at 61.214 179.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "LTST-C194TBKT"
+			(at 55.88 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "AVR-KiCAD-Lib-Diodes:LED0603"
+			(at 53.34 184.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "http://optoelectronics.liteon.com/upload/download/DS22-2010-0025/LTST-C194TBKT.PDF"
+			(at 52.07 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Blue 468nm LED Indication - Discrete 3.3V 0603 (1608 Metric)"
+			(at 115.57 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Cost QTY: 1" "0.42000"
+			(at 57.15 173.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Cost QTY: 1000" "0.07797"
+			(at 59.69 171.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Cost QTY: 2500" "*"
+			(at 62.23 168.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Cost QTY: 5000" "0.06102"
+			(at 64.77 166.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Cost QTY: 10000" "0.05424"
+			(at 67.31 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR" "Lite-On Inc."
+			(at 69.85 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR#" "LTST-C194TBKT"
+			(at 72.39 158.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Vendor" "Digikey"
+			(at 74.93 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Vendor #" "160-1837-2-ND"
+			(at 77.47 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Designer" "AVR"
+			(at 80.01 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Height" "0.45mm"
+			(at 82.55 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Date Created" "3/1/2020"
+			(at 110.49 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Date Modified" "3/1/2020"
+			(at 85.09 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Lead-Free ?" "Yes"
+			(at 87.63 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "RoHS Levels" "1"
+			(at 90.17 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mounting" "SMT"
+			(at 92.71 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Pin Count #" "2"
+			(at 95.25 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Status" "Active"
+			(at 97.79 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Tolerance" "*"
+			(at 100.33 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Type" "Blue LED Colorless"
+			(at 102.87 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage" "3.3V"
+			(at 105.41 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "0603"
+			(at 107.95 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "_Value_" "Blue LED"
+			(at 68.834 179.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Management_ID" "*"
+			(at 115.57 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "2943d7a0-4d5b-4857-93b6-e5c4dbc8338b")
+		)
+		(pin "2"
+			(uuid "49282ad6-239a-4ad9-85a3-156beadabc73")
+		)
+		(instances
+			(project "fantoccia_carrier"
+				(path "/faa652bd-d277-4d95-a530-1d3e26469af1/fb1a902e-3cde-446f-93e4-8f03e3bf91e4"
+					(reference "D2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "AVR-KiCAD-Lib-Resistors:RC0603FR-072K2L")
+		(at 40.64 175.26 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "ca0055c5-f279-43cd-9b61-9760b077c5c4")
+		(property "Reference" "R1"
+			(at 40.64 173.736 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "RC0603FR-072K2L"
+			(at 40.64 170.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "AVR-KiCAD-Lib-Resistors:R0603"
+			(at 40.64 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.yageo.com/upload/media/product/products/datasheet/rchip/PYu-RC_Group_51_RoHS_L_12.pdf"
+			(at 40.64 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "2.2 kOhms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Moisture Resistant Thick Film"
+			(at 101.6 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Cost QTY: 1" "0.10000"
+			(at 43.18 168.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Cost QTY: 1000" "0.00532"
+			(at 45.72 166.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Cost QTY: 2500" "*"
+			(at 48.26 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Cost QTY: 5000" "0.00382"
+			(at 50.8 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Cost QTY: 10000" "0.00335"
+			(at 53.34 158.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR" "YAGEO"
+			(at 55.88 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR#" "RC0603FR-072K2L"
+			(at 58.42 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Vendor" "Digikey"
+			(at 60.96 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Vendor #" "311-2.20KHRTR-ND"
+			(at 63.5 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Designer" "Adam Vadala-Roth"
+			(at 66.04 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Height" "0.55mm"
+			(at 68.58 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Date Created" "3/8/2024"
+			(at 96.52 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Date Modified" "3/8/2024"
+			(at 71.12 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Lead-Free ?" "Yes"
+			(at 73.66 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "RoHS Levels" "1"
+			(at 76.2 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mounting" "SMT"
+			(at 78.74 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Pin Count #" "2"
+			(at 81.28 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Status" "Active"
+			(at 83.82 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Tolerance" "1%"
+			(at 86.36 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Type" "Resistor "
+			(at 88.9 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage" "N/A"
+			(at 91.44 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "0603"
+			(at 93.98 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "_Value_" "2.2K"
+			(at 40.64 177.038 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Management_ID" "*"
+			(at 101.6 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "d4bf2353-70d4-418f-a1cc-8b5470c96be4")
+		)
+		(pin "2"
+			(uuid "5026e83a-5679-4d86-9dfa-cbe51b142c6c")
+		)
+		(instances
+			(project "fantoccia_carrier"
+				(path "/faa652bd-d277-4d95-a530-1d3e26469af1/fb1a902e-3cde-446f-93e4-8f03e3bf91e4"
+					(reference "R1")
 					(unit 1)
 				)
 			)
