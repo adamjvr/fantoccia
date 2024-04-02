@@ -609,6 +609,10 @@
     [
       "b160e170-6243-47aa-bfc3-8bee352c5578",
       "Translator 5V"
+    ],
+    [
+      "70cbb054-5af5-4393-97f8-a1238b7ba1fa",
+      "Power"
     ]
   ],
   "text_variables": {}

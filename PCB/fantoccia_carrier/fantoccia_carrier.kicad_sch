@@ -4932,6 +4932,44 @@
 		)
 	)
 	(sheet
+		(at 88.9 152.4)
+		(size 63.5 38.1)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "70cbb054-5af5-4393-97f8-a1238b7ba1fa")
+		(property "Sheetname" "Power"
+			(at 88.9 151.6884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Power.kicad_sch"
+			(at 88.9 191.0846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "fantoccia_carrier"
+				(path "/faa652bd-d277-4d95-a530-1d3e26469af1"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
 		(at 165.1 38.1)
 		(size 38.1 101.6)
 		(fields_autoplaced yes)
